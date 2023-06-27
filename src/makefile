@@ -1,7 +1,6 @@
 #Project to read PRs for JIRA/ADO tickets
-#Windows makefile
+#Mac/OS makefile
 PRJ_NAME = pr_finder
-VS_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe
 CPPR_ROOT_INCL = /usr/local/opt/cpprestsdk/include
 CPP_REST_INCL = $(CPPR_ROOT_INCL)/cpprest
 CPP_PPLX_INCL = $(CPPR_ROOT_INCL)/pplx
@@ -11,13 +10,12 @@ LIB_PATHS=-L/usr/local/opt/openssl/lib -L/usr/local/opt/cpprestsdk/lib -L/usr/lo
 LIBS=-lcrypto -lcpprest -lboost_program_options
 L_FLAGS= $(LIB_PATHS) $(LIBS)
 OBJECTS=main.o json_utils.o jira.o azdev.o utils.o
-
 all: $(OBJECTS) ajdebug
-	g++ $(L_FLAGS) $^ -o $(PRJ_NAME)
-#Proyecto para mostrar el contenido JSON de cualquier ticket
+	g++ $(L_FLAGS) $(OBJECTS) -o ../bin/$(PRJ_NAME)
+#Project to show the JSON content of any ticket
 ajdebug:$(OBJECTS:main.o=debug.o)
-	g++ $(L_FLAGS) $^ -o $@
+	g++ $(L_FLAGS) $^ -o ../bin/$@
 clean:
-	rm  -f *.o $(PRJ_NAME)
+	rm  -f *.o ../bin/$(PRJ_NAME)
 %.o: %.cpp
 	g++ -c $(CC_FLAGS)  -std=c++11 $^ -o $@

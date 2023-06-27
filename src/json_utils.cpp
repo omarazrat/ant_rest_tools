@@ -40,7 +40,11 @@ value anthology::json::_json(http_client & client,
 	req.set_request_uri(query);
 #endif
 	http_response response= client.request(req).get();
+#ifdef _WIN32
 	response.headers().set_content_type(L"application/json");
+#else
+	response.headers().set_content_type("application/json");
+#endif
 //	cout<<"request made"<<endl;
 //	cout<<"status code:"<<response.status_code()<<endl;//<<
 //		response.to_string()<<endl;

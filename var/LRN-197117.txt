@@ -1,0 +1,3444 @@
+{{{{{changelog>histories>[0]>author>active 1:Bool
+{changelog>histories>[0]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[0]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[0]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[0]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[0]>author>displayName Oscar Fajardo:String
+changelog>histories>[0]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[0]>author>key JIRAUSER25159:String
+changelog>histories>[0]>author>name ofajardo:String
+changelog>histories>[0]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[0]>author>timeZone America/Bogota:String
+}
+changelog>histories>[0]>created 2022-12-02T01:52:17.116+0000:String
+changelog>histories>[0]>id 14923949:String
+{{changelog>histories>[0]>items>[0]>field Parent Link:String
+changelog>histories>[0]>items>[0]>fieldtype custom:String
+changelog>histories>[0]>items>[0]>from :Null
+changelog>histories>[0]>items>[0]>fromString :Null
+changelog>histories>[0]>items>[0]>to :Null
+changelog>histories>[0]>items>[0]>toString DP-1432 Per Question Points Changes M3 Partial Credit:String
+}
+}
+}
+{{changelog>histories>[1]>author>active 1:Bool
+{changelog>histories>[1]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[1]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[1]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[1]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[1]>author>displayName Oscar Fajardo:String
+changelog>histories>[1]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[1]>author>key JIRAUSER25159:String
+changelog>histories>[1]>author>name ofajardo:String
+changelog>histories>[1]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[1]>author>timeZone America/Bogota:String
+}
+changelog>histories>[1]>created 2022-12-02T01:53:36.303+0000:String
+changelog>histories>[1]>id 14923952:String
+{{changelog>histories>[1]>items>[0]>field Link:String
+changelog>histories>[1]>items>[0]>fieldtype jira:String
+changelog>histories>[1]>items>[0]>from :Null
+changelog>histories>[1]>items>[0]>fromString :Null
+changelog>histories>[1]>items>[0]>to LRN-197118:String
+changelog>histories>[1]>items>[0]>toString This issue blocks LRN-197118:String
+}
+}
+}
+{{changelog>histories>[2]>author>active 1:Bool
+{changelog>histories>[2]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[2]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[2]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[2]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[2]>author>displayName Oscar Fajardo:String
+changelog>histories>[2]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[2]>author>key JIRAUSER25159:String
+changelog>histories>[2]>author>name ofajardo:String
+changelog>histories>[2]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[2]>author>timeZone America/Bogota:String
+}
+changelog>histories>[2]>created 2022-12-02T01:53:48.699+0000:String
+changelog>histories>[2]>id 14923955:String
+{{changelog>histories>[2]>items>[0]>field Link:String
+changelog>histories>[2]>items>[0]>fieldtype jira:String
+changelog>histories>[2]>items>[0]>from :Null
+changelog>histories>[2]>items>[0]>fromString :Null
+changelog>histories>[2]>items>[0]>to LRN-197116:String
+changelog>histories>[2]>items>[0]>toString This issue is blocked by LRN-197116:String
+}
+}
+}
+{{changelog>histories>[3]>author>active 1:Bool
+{changelog>histories>[3]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[3]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[3]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[3]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[3]>author>displayName Oscar Fajardo:String
+changelog>histories>[3]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[3]>author>key JIRAUSER25159:String
+changelog>histories>[3]>author>name ofajardo:String
+changelog>histories>[3]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[3]>author>timeZone America/Bogota:String
+}
+changelog>histories>[3]>created 2022-12-02T01:54:03.558+0000:String
+changelog>histories>[3]>id 14923957:String
+{{changelog>histories>[3]>items>[0]>field summary:String
+changelog>histories>[3]>items>[0]>fieldtype jira:String
+changelog>histories>[3]>items>[0]>from :Null
+changelog>histories>[3]>items>[0]>fromString Per Question Points Changes M3 Partial Credit:String
+changelog>histories>[3]>items>[0]>to :Null
+changelog>histories>[3]>items>[0]>toString Development - Per Question Points Changes M3 Partial Credit:String
+}
+}
+}
+{{changelog>histories>[4]>author>active 1:Bool
+{changelog>histories>[4]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[4]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[4]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[4]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[4]>author>displayName Ailin Rojas:String
+changelog>histories>[4]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[4]>author>key aarojas:String
+changelog>histories>[4]>author>name aarojas:String
+changelog>histories>[4]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[4]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[4]>created 2023-01-24T20:28:06.050+0000:String
+changelog>histories>[4]>id 15031253:String
+{{changelog>histories>[4]>items>[0]>field summary:String
+changelog>histories>[4]>items>[0]>fieldtype jira:String
+changelog>histories>[4]>items>[0]>from :Null
+changelog>histories>[4]>items>[0]>fromString Development - Per Question Points Changes M3 Partial Credit:String
+changelog>histories>[4]>items>[0]>to :Null
+changelog>histories>[4]>items>[0]>toString Development - Multiple choice - Partial & negative credit:String
+}
+}
+}
+{{changelog>histories>[5]>author>active 1:Bool
+{changelog>histories>[5]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[5]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[5]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[5]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[5]>author>displayName Ailin Rojas:String
+changelog>histories>[5]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[5]>author>key aarojas:String
+changelog>histories>[5]>author>name aarojas:String
+changelog>histories>[5]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[5]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[5]>created 2023-01-31T18:19:48.946+0000:String
+changelog>histories>[5]>id 15048062:String
+{{changelog>histories>[5]>items>[0]>field summary:String
+changelog>histories>[5]>items>[0]>fieldtype jira:String
+changelog>histories>[5]>items>[0]>from :Null
+changelog>histories>[5]>items>[0]>fromString Development - Multiple choice - Partial & negative credit:String
+changelog>histories>[5]>items>[0]>to :Null
+changelog>histories>[5]>items>[0]>toString Development - Multiple Choice & Matching Questions - Partial & negative credit:String
+}
+}
+}
+{{changelog>histories>[6]>author>active 1:Bool
+{changelog>histories>[6]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[6]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[6]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[6]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[6]>author>displayName Ailin Rojas:String
+changelog>histories>[6]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[6]>author>key aarojas:String
+changelog>histories>[6]>author>name aarojas:String
+changelog>histories>[6]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[6]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[6]>created 2023-01-31T18:19:58.977+0000:String
+changelog>histories>[6]>id 15048063:String
+{{changelog>histories>[6]>items>[0]>field Epic Name:String
+changelog>histories>[6]>items>[0]>fieldtype custom:String
+changelog>histories>[6]>items>[0]>from :Null
+changelog>histories>[6]>items>[0]>fromString Development - Per Question Points Changes M3 Partial Credit:String
+changelog>histories>[6]>items>[0]>to :Null
+changelog>histories>[6]>items>[0]>toString Development - Multiple Choice & Matching Questions - Partial & negative credit:String
+}
+}
+}
+{{changelog>histories>[7]>author>active 1:Bool
+{changelog>histories>[7]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[7]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[7]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[7]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[7]>author>displayName Ailin Rojas:String
+changelog>histories>[7]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[7]>author>key aarojas:String
+changelog>histories>[7]>author>name aarojas:String
+changelog>histories>[7]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[7]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[7]>created 2023-01-31T18:25:27.952+0000:String
+changelog>histories>[7]>id 15048073:String
+{{changelog>histories>[7]>items>[0]>field Epic Child:String
+changelog>histories>[7]>items>[0]>fieldtype custom:String
+changelog>histories>[7]>items>[0]>from :Null
+changelog>histories>[7]>items>[0]>fromString :Null
+changelog>histories>[7]>items>[0]>to 1439474:String
+changelog>histories>[7]>items>[0]>toString LRN-199706:String
+}
+}
+}
+{{changelog>histories>[8]>author>active 1:Bool
+{changelog>histories>[8]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[8]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[8]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[8]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[8]>author>displayName Ailin Rojas:String
+changelog>histories>[8]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[8]>author>key aarojas:String
+changelog>histories>[8]>author>name aarojas:String
+changelog>histories>[8]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[8]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[8]>created 2023-01-31T18:26:09.998+0000:String
+changelog>histories>[8]>id 15048076:String
+{{changelog>histories>[8]>items>[0]>field Epic Colour:String
+changelog>histories>[8]>items>[0]>fieldtype custom:String
+changelog>histories>[8]>items>[0]>from :Null
+changelog>histories>[8]>items>[0]>fromString ghx-label-7:String
+changelog>histories>[8]>items>[0]>to :Null
+changelog>histories>[8]>items>[0]>toString ghx-label-2:String
+}
+}
+}
+{{changelog>histories>[9]>author>active 1:Bool
+{changelog>histories>[9]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[9]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[9]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[9]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[9]>author>displayName Ailin Rojas:String
+changelog>histories>[9]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[9]>author>key aarojas:String
+changelog>histories>[9]>author>name aarojas:String
+changelog>histories>[9]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[9]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[9]>created 2023-01-31T18:32:29.096+0000:String
+changelog>histories>[9]>id 15048079:String
+{{changelog>histories>[9]>items>[0]>field Epic Child:String
+changelog>histories>[9]>items>[0]>fieldtype custom:String
+changelog>histories>[9]>items>[0]>from :Null
+changelog>histories>[9]>items>[0]>fromString :Null
+changelog>histories>[9]>items>[0]>to 1439475:String
+changelog>histories>[9]>items>[0]>toString LRN-199707:String
+}
+}
+}
+{{changelog>histories>[10]>author>active 1:Bool
+{changelog>histories>[10]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[10]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[10]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[10]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[10]>author>displayName Ailin Rojas:String
+changelog>histories>[10]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[10]>author>key aarojas:String
+changelog>histories>[10]>author>name aarojas:String
+changelog>histories>[10]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[10]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[10]>created 2023-01-31T18:36:41.554+0000:String
+changelog>histories>[10]>id 15048101:String
+{{changelog>histories>[10]>items>[0]>field Epic Child:String
+changelog>histories>[10]>items>[0]>fieldtype custom:String
+changelog>histories>[10]>items>[0]>from :Null
+changelog>histories>[10]>items>[0]>fromString :Null
+changelog>histories>[10]>items>[0]>to 1439477:String
+changelog>histories>[10]>items>[0]>toString LRN-199708:String
+}
+}
+}
+{{changelog>histories>[11]>author>active 1:Bool
+{changelog>histories>[11]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[11]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[11]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[11]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[11]>author>displayName Ailin Rojas:String
+changelog>histories>[11]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[11]>author>key aarojas:String
+changelog>histories>[11]>author>name aarojas:String
+changelog>histories>[11]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[11]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[11]>created 2023-01-31T18:47:25.260+0000:String
+changelog>histories>[11]>id 15048126:String
+{{changelog>histories>[11]>items>[0]>field summary:String
+changelog>histories>[11]>items>[0]>fieldtype jira:String
+changelog>histories>[11]>items>[0]>from :Null
+changelog>histories>[11]>items>[0]>fromString Development - Multiple Choice & Matching Questions - Partial & negative credit:String
+changelog>histories>[11]>items>[0]>to :Null
+changelog>histories>[11]>items>[0]>toString Development - Multiple Choice - Partial & negative credit:String
+}
+}
+}
+{{changelog>histories>[12]>author>active 1:Bool
+{changelog>histories>[12]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[12]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[12]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[12]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[12]>author>displayName Ailin Rojas:String
+changelog>histories>[12]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[12]>author>key aarojas:String
+changelog>histories>[12]>author>name aarojas:String
+changelog>histories>[12]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[12]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[12]>created 2023-01-31T18:47:44.845+0000:String
+changelog>histories>[12]>id 15048127:String
+{{changelog>histories>[12]>items>[0]>field Epic Name:String
+changelog>histories>[12]>items>[0]>fieldtype custom:String
+changelog>histories>[12]>items>[0]>from :Null
+changelog>histories>[12]>items>[0]>fromString Development - Multiple Choice & Matching Questions - Partial & negative credit:String
+changelog>histories>[12]>items>[0]>to :Null
+changelog>histories>[12]>items>[0]>toString Development - Multiple Choice - Partial & negative credit:String
+}
+}
+}
+{{changelog>histories>[13]>author>active 1:Bool
+{changelog>histories>[13]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[13]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[13]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[13]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[13]>author>displayName Ailin Rojas:String
+changelog>histories>[13]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[13]>author>key aarojas:String
+changelog>histories>[13]>author>name aarojas:String
+changelog>histories>[13]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[13]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[13]>created 2023-01-31T18:47:57.070+0000:String
+changelog>histories>[13]>id 15048128:String
+{{changelog>histories>[13]>items>[0]>field description:String
+changelog>histories>[13]>items>[0]>fieldtype jira:String
+changelog>histories>[13]>items>[0]>from :Null
+changelog>histories>[13]>items>[0]>fromString Development - Per Question Points Changes M3 Partial Credit:String
+changelog>histories>[13]>items>[0]>to :Null
+changelog>histories>[13]>items>[0]>toString Modal/Banner credits don't sum up 100%:String
+}
+}
+}
+{{changelog>histories>[14]>author>active 1:Bool
+{changelog>histories>[14]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[14]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[14]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[14]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[14]>author>displayName Ailin Rojas:String
+changelog>histories>[14]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[14]>author>key aarojas:String
+changelog>histories>[14]>author>name aarojas:String
+changelog>histories>[14]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[14]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[14]>created 2023-01-31T18:48:26.097+0000:String
+changelog>histories>[14]>id 15048129:String
+{{changelog>histories>[14]>items>[0]>field description:String
+changelog>histories>[14]>items>[0]>fieldtype jira:String
+changelog>histories>[14]>items>[0]>from :Null
+changelog>histories>[14]>items>[0]>fromString Modal/Banner credits don't sum up 100%:String
+changelog>histories>[14]>items>[0]>to :Null
+changelog>histories>[14]>items>[0]>toString * 
+Development - Multiple Choice - Partial & negative credit:String
+}
+}
+}
+{{changelog>histories>[15]>author>active 1:Bool
+{changelog>histories>[15]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[15]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[15]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[15]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[15]>author>displayName Ailin Rojas:String
+changelog>histories>[15]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[15]>author>key aarojas:String
+changelog>histories>[15]>author>name aarojas:String
+changelog>histories>[15]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[15]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[15]>created 2023-01-31T18:57:07.581+0000:String
+changelog>histories>[15]>id 15048142:String
+{{changelog>histories>[15]>items>[0]>field Epic Child:String
+changelog>histories>[15]>items>[0]>fieldtype custom:String
+changelog>histories>[15]>items>[0]>from 1439477:String
+changelog>histories>[15]>items>[0]>fromString LRN-199708:String
+changelog>histories>[15]>items>[0]>to :Null
+changelog>histories>[15]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[16]>author>active 1:Bool
+{changelog>histories>[16]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[16]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[16]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[16]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[16]>author>displayName Ailin Rojas:String
+changelog>histories>[16]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[16]>author>key aarojas:String
+changelog>histories>[16]>author>name aarojas:String
+changelog>histories>[16]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[16]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[16]>created 2023-01-31T18:57:41.204+0000:String
+changelog>histories>[16]>id 15048145:String
+{{changelog>histories>[16]>items>[0]>field Epic Colour:String
+changelog>histories>[16]>items>[0]>fieldtype custom:String
+changelog>histories>[16]>items>[0]>from :Null
+changelog>histories>[16]>items>[0]>fromString ghx-label-2:String
+changelog>histories>[16]>items>[0]>to :Null
+changelog>histories>[16]>items>[0]>toString ghx-label-1:String
+}
+}
+}
+{{changelog>histories>[17]>author>active 1:Bool
+{changelog>histories>[17]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[17]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[17]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[17]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[17]>author>displayName Ailin Rojas:String
+changelog>histories>[17]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[17]>author>key aarojas:String
+changelog>histories>[17]>author>name aarojas:String
+changelog>histories>[17]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[17]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[17]>created 2023-01-31T18:58:12.292+0000:String
+changelog>histories>[17]>id 15048147:String
+{{changelog>histories>[17]>items>[0]>field Epic Child:String
+changelog>histories>[17]>items>[0]>fieldtype custom:String
+changelog>histories>[17]>items>[0]>from 1439474:String
+changelog>histories>[17]>items>[0]>fromString LRN-199706:String
+changelog>histories>[17]>items>[0]>to :Null
+changelog>histories>[17]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[18]>author>active 1:Bool
+{changelog>histories>[18]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[18]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[18]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[18]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[18]>author>displayName Ailin Rojas:String
+changelog>histories>[18]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[18]>author>key aarojas:String
+changelog>histories>[18]>author>name aarojas:String
+changelog>histories>[18]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[18]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[18]>created 2023-01-31T18:59:38.574+0000:String
+changelog>histories>[18]>id 15048151:String
+{{changelog>histories>[18]>items>[0]>field Epic Child:String
+changelog>histories>[18]>items>[0]>fieldtype custom:String
+changelog>histories>[18]>items>[0]>from 1439475:String
+changelog>histories>[18]>items>[0]>fromString LRN-199707:String
+changelog>histories>[18]>items>[0]>to :Null
+changelog>histories>[18]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[19]>author>active 1:Bool
+{changelog>histories>[19]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[19]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[19]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[19]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[19]>author>displayName Oscar Fajardo:String
+changelog>histories>[19]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[19]>author>key JIRAUSER25159:String
+changelog>histories>[19]>author>name ofajardo:String
+changelog>histories>[19]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[19]>author>timeZone America/Bogota:String
+}
+changelog>histories>[19]>created 2023-02-01T13:45:15.667+0000:String
+changelog>histories>[19]>id 15049927:String
+{{changelog>histories>[19]>items>[0]>field Epic Colour:String
+changelog>histories>[19]>items>[0]>fieldtype custom:String
+changelog>histories>[19]>items>[0]>from :Null
+changelog>histories>[19]>items>[0]>fromString ghx-label-1:String
+changelog>histories>[19]>items>[0]>to :Null
+changelog>histories>[19]>items>[0]>toString ghx-label-4:String
+}
+}
+}
+{{changelog>histories>[20]>author>active 1:Bool
+{changelog>histories>[20]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[20]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[20]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[20]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER26035&avatarId=18872:String
+}
+changelog>histories>[20]>author>displayName Daniel Rodriguez Venegas:String
+changelog>histories>[20]>author>emailAddress daniel.rodriguezvenegas@blackboard.com:String
+changelog>histories>[20]>author>key JIRAUSER26035:String
+changelog>histories>[20]>author>name drodriguezvenegas:String
+changelog>histories>[20]>author>self https://jira.bbpd.io/rest/api/2/user?username=drodriguezvenegas:String
+changelog>histories>[20]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[20]>created 2023-02-08T14:39:16.755+0000:String
+changelog>histories>[20]>id 15065910:String
+{{changelog>histories>[20]>items>[0]>field Epic Child:String
+changelog>histories>[20]>items>[0]>fieldtype custom:String
+changelog>histories>[20]>items>[0]>from :Null
+changelog>histories>[20]>items>[0]>fromString :Null
+changelog>histories>[20]>items>[0]>to 1440999:String
+changelog>histories>[20]>items>[0]>toString LRN-200166:String
+}
+}
+}
+{{changelog>histories>[21]>author>active 1:Bool
+{changelog>histories>[21]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[21]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[21]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[21]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER26035&avatarId=18872:String
+}
+changelog>histories>[21]>author>displayName Daniel Rodriguez Venegas:String
+changelog>histories>[21]>author>emailAddress daniel.rodriguezvenegas@blackboard.com:String
+changelog>histories>[21]>author>key JIRAUSER26035:String
+changelog>histories>[21]>author>name drodriguezvenegas:String
+changelog>histories>[21]>author>self https://jira.bbpd.io/rest/api/2/user?username=drodriguezvenegas:String
+changelog>histories>[21]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[21]>created 2023-02-08T14:46:04.828+0000:String
+changelog>histories>[21]>id 15065977:String
+{{changelog>histories>[21]>items>[0]>field Epic Child:String
+changelog>histories>[21]>items>[0]>fieldtype custom:String
+changelog>histories>[21]>items>[0]>from :Null
+changelog>histories>[21]>items>[0]>fromString :Null
+changelog>histories>[21]>items>[0]>to 1441000:String
+changelog>histories>[21]>items>[0]>toString LRN-200167:String
+}
+}
+}
+{{changelog>histories>[22]>author>active 1:Bool
+{changelog>histories>[22]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[22]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[22]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[22]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[22]>author>displayName Ailin Rojas:String
+changelog>histories>[22]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[22]>author>key aarojas:String
+changelog>histories>[22]>author>name aarojas:String
+changelog>histories>[22]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[22]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[22]>created 2023-02-14T18:20:38.258+0000:String
+changelog>histories>[22]>id 15076503:String
+{{changelog>histories>[22]>items>[0]>field Epic Child:String
+changelog>histories>[22]>items>[0]>fieldtype custom:String
+changelog>histories>[22]>items>[0]>from :Null
+changelog>histories>[22]>items>[0]>fromString :Null
+changelog>histories>[22]>items>[0]>to 1442062:String
+changelog>histories>[22]>items>[0]>toString LRN-200401:String
+}
+}
+}
+{{changelog>histories>[23]>author>active 1:Bool
+{changelog>histories>[23]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[23]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[23]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[23]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[23]>author>displayName Diana Cepeda:String
+changelog>histories>[23]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[23]>author>key JIRAUSER25256:String
+changelog>histories>[23]>author>name dcepeda:String
+changelog>histories>[23]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[23]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[23]>created 2023-02-14T19:05:28.849+0000:String
+changelog>histories>[23]>id 15076575:String
+{{changelog>histories>[23]>items>[0]>field Epic Child:String
+changelog>histories>[23]>items>[0]>fieldtype custom:String
+changelog>histories>[23]>items>[0]>from :Null
+changelog>histories>[23]>items>[0]>fromString :Null
+changelog>histories>[23]>items>[0]>to 1442070:String
+changelog>histories>[23]>items>[0]>toString LRN-200405:String
+}
+}
+}
+{{changelog>histories>[24]>author>active 1:Bool
+{changelog>histories>[24]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[24]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[24]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[24]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[24]>author>displayName Oscar Fajardo:String
+changelog>histories>[24]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[24]>author>key JIRAUSER25159:String
+changelog>histories>[24]>author>name ofajardo:String
+changelog>histories>[24]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[24]>author>timeZone America/Bogota:String
+}
+changelog>histories>[24]>created 2023-02-14T20:15:51.630+0000:String
+changelog>histories>[24]>id 15076774:String
+{{changelog>histories>[24]>items>[0]>field Epic Colour:String
+changelog>histories>[24]>items>[0]>fieldtype custom:String
+changelog>histories>[24]>items>[0]>from :Null
+changelog>histories>[24]>items>[0]>fromString ghx-label-4:String
+changelog>histories>[24]>items>[0]>to :Null
+changelog>histories>[24]>items>[0]>toString ghx-label-14:String
+}
+}
+}
+{{changelog>histories>[25]>author>active 1:Bool
+{changelog>histories>[25]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[25]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[25]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[25]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[25]>author>displayName Ailin Rojas:String
+changelog>histories>[25]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[25]>author>key aarojas:String
+changelog>histories>[25]>author>name aarojas:String
+changelog>histories>[25]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[25]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[25]>created 2023-02-14T20:55:03.191+0000:String
+changelog>histories>[25]>id 15076966:String
+{{changelog>histories>[25]>items>[0]>field Epic Child:String
+changelog>histories>[25]>items>[0]>fieldtype custom:String
+changelog>histories>[25]>items>[0]>from :Null
+changelog>histories>[25]>items>[0]>fromString :Null
+changelog>histories>[25]>items>[0]>to 1442099:String
+changelog>histories>[25]>items>[0]>toString LRN-200424:String
+}
+}
+}
+{{changelog>histories>[26]>author>active 1:Bool
+{changelog>histories>[26]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[26]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[26]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[26]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[26]>author>displayName Ailin Rojas:String
+changelog>histories>[26]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[26]>author>key aarojas:String
+changelog>histories>[26]>author>name aarojas:String
+changelog>histories>[26]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[26]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[26]>created 2023-02-14T21:04:48.649+0000:String
+changelog>histories>[26]>id 15076990:String
+{{changelog>histories>[26]>items>[0]>field Epic Child:String
+changelog>histories>[26]>items>[0]>fieldtype custom:String
+changelog>histories>[26]>items>[0]>from :Null
+changelog>histories>[26]>items>[0]>fromString :Null
+changelog>histories>[26]>items>[0]>to 1442101:String
+changelog>histories>[26]>items>[0]>toString LRN-200425:String
+}
+}
+}
+{{changelog>histories>[27]>author>active 1:Bool
+{changelog>histories>[27]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[27]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[27]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[27]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[27]>author>displayName Ailin Rojas:String
+changelog>histories>[27]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[27]>author>key aarojas:String
+changelog>histories>[27]>author>name aarojas:String
+changelog>histories>[27]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[27]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[27]>created 2023-02-14T21:10:59.878+0000:String
+changelog>histories>[27]>id 15077006:String
+{{changelog>histories>[27]>items>[0]>field Epic Child:String
+changelog>histories>[27]>items>[0]>fieldtype custom:String
+changelog>histories>[27]>items>[0]>from :Null
+changelog>histories>[27]>items>[0]>fromString :Null
+changelog>histories>[27]>items>[0]>to 1442103:String
+changelog>histories>[27]>items>[0]>toString LRN-200427:String
+}
+}
+}
+{{changelog>histories>[28]>author>active 1:Bool
+{changelog>histories>[28]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[28]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[28]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[28]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[28]>author>displayName Ailin Rojas:String
+changelog>histories>[28]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[28]>author>key aarojas:String
+changelog>histories>[28]>author>name aarojas:String
+changelog>histories>[28]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[28]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[28]>created 2023-02-14T21:13:28.101+0000:String
+changelog>histories>[28]>id 15077018:String
+{{changelog>histories>[28]>items>[0]>field Epic Child:String
+changelog>histories>[28]>items>[0]>fieldtype custom:String
+changelog>histories>[28]>items>[0]>from :Null
+changelog>histories>[28]>items>[0]>fromString :Null
+changelog>histories>[28]>items>[0]>to 1442104:String
+changelog>histories>[28]>items>[0]>toString LRN-200428:String
+}
+}
+}
+{{changelog>histories>[29]>author>active 1:Bool
+{changelog>histories>[29]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[29]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[29]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[29]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[29]>author>displayName Diana Cepeda:String
+changelog>histories>[29]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[29]>author>key JIRAUSER25256:String
+changelog>histories>[29]>author>name dcepeda:String
+changelog>histories>[29]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[29]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[29]>created 2023-02-17T20:48:09.001+0000:String
+changelog>histories>[29]>id 15084433:String
+{{changelog>histories>[29]>items>[0]>field Epic Child:String
+changelog>histories>[29]>items>[0]>fieldtype custom:String
+changelog>histories>[29]>items>[0]>from :Null
+changelog>histories>[29]>items>[0]>fromString :Null
+changelog>histories>[29]>items>[0]>to 1442723:String
+changelog>histories>[29]>items>[0]>toString LRN-200608:String
+}
+}
+}
+{{changelog>histories>[30]>author>active 1:Bool
+{changelog>histories>[30]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[30]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[30]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[30]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[30]>author>displayName Diana Cepeda:String
+changelog>histories>[30]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[30]>author>key JIRAUSER25256:String
+changelog>histories>[30]>author>name dcepeda:String
+changelog>histories>[30]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[30]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[30]>created 2023-02-17T20:51:21.016+0000:String
+changelog>histories>[30]>id 15084466:String
+{{changelog>histories>[30]>items>[0]>field Epic Child:String
+changelog>histories>[30]>items>[0]>fieldtype custom:String
+changelog>histories>[30]>items>[0]>from :Null
+changelog>histories>[30]>items>[0]>fromString :Null
+changelog>histories>[30]>items>[0]>to 1442724:String
+changelog>histories>[30]>items>[0]>toString LRN-200609:String
+}
+}
+}
+{{changelog>histories>[31]>author>active 1:Bool
+{changelog>histories>[31]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[31]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[31]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[31]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER26035&avatarId=18872:String
+}
+changelog>histories>[31]>author>displayName Daniel Rodriguez Venegas:String
+changelog>histories>[31]>author>emailAddress daniel.rodriguezvenegas@blackboard.com:String
+changelog>histories>[31]>author>key JIRAUSER26035:String
+changelog>histories>[31]>author>name drodriguezvenegas:String
+changelog>histories>[31]>author>self https://jira.bbpd.io/rest/api/2/user?username=drodriguezvenegas:String
+changelog>histories>[31]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[31]>created 2023-02-21T15:42:58.304+0000:String
+changelog>histories>[31]>id 15089987:String
+{{changelog>histories>[31]>items>[0]>field Epic Child:String
+changelog>histories>[31]>items>[0]>fieldtype custom:String
+changelog>histories>[31]>items>[0]>from :Null
+changelog>histories>[31]>items>[0]>fromString :Null
+changelog>histories>[31]>items>[0]>to 1443234:String
+changelog>histories>[31]>items>[0]>toString LRN-200776:String
+}
+}
+}
+{{changelog>histories>[32]>author>active 1:Bool
+{changelog>histories>[32]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[32]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[32]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[32]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER26035&avatarId=18872:String
+}
+changelog>histories>[32]>author>displayName Daniel Rodriguez Venegas:String
+changelog>histories>[32]>author>emailAddress daniel.rodriguezvenegas@blackboard.com:String
+changelog>histories>[32]>author>key JIRAUSER26035:String
+changelog>histories>[32]>author>name drodriguezvenegas:String
+changelog>histories>[32]>author>self https://jira.bbpd.io/rest/api/2/user?username=drodriguezvenegas:String
+changelog>histories>[32]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[32]>created 2023-02-21T15:49:18.571+0000:String
+changelog>histories>[32]>id 15090052:String
+{{changelog>histories>[32]>items>[0]>field Epic Child:String
+changelog>histories>[32]>items>[0]>fieldtype custom:String
+changelog>histories>[32]>items>[0]>from :Null
+changelog>histories>[32]>items>[0]>fromString :Null
+changelog>histories>[32]>items>[0]>to 1443240:String
+changelog>histories>[32]>items>[0]>toString LRN-200778:String
+}
+}
+}
+{{changelog>histories>[33]>author>active 1:Bool
+{changelog>histories>[33]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[33]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[33]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[33]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[33]>author>displayName Diana Cepeda:String
+changelog>histories>[33]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[33]>author>key JIRAUSER25256:String
+changelog>histories>[33]>author>name dcepeda:String
+changelog>histories>[33]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[33]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[33]>created 2023-02-28T21:02:12.017+0000:String
+changelog>histories>[33]>id 15105273:String
+{{changelog>histories>[33]>items>[0]>field Epic Child:String
+changelog>histories>[33]>items>[0]>fieldtype custom:String
+changelog>histories>[33]>items>[0]>from :Null
+changelog>histories>[33]>items>[0]>fromString :Null
+changelog>histories>[33]>items>[0]>to 1444650:String
+changelog>histories>[33]>items>[0]>toString LRN-201208:String
+}
+}
+}
+{{changelog>histories>[34]>author>active 1:Bool
+{changelog>histories>[34]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[34]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[34]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[34]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[34]>author>displayName Diana Cepeda:String
+changelog>histories>[34]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[34]>author>key JIRAUSER25256:String
+changelog>histories>[34]>author>name dcepeda:String
+changelog>histories>[34]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[34]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[34]>created 2023-02-28T21:03:04.599+0000:String
+changelog>histories>[34]>id 15105275:String
+{{changelog>histories>[34]>items>[0]>field Epic Child:String
+changelog>histories>[34]>items>[0]>fieldtype custom:String
+changelog>histories>[34]>items>[0]>from :Null
+changelog>histories>[34]>items>[0]>fromString :Null
+changelog>histories>[34]>items>[0]>to 1444651:String
+changelog>histories>[34]>items>[0]>toString LRN-201209:String
+}
+}
+}
+{{changelog>histories>[35]>author>active 1:Bool
+{changelog>histories>[35]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[35]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[35]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[35]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER24213&avatarId=17456:String
+}
+changelog>histories>[35]>author>displayName Nicolas Osorio:String
+changelog>histories>[35]>author>emailAddress nicolas.osorio@blackboard.com:String
+changelog>histories>[35]>author>key JIRAUSER24213:String
+changelog>histories>[35]>author>name nosorio:String
+changelog>histories>[35]>author>self https://jira.bbpd.io/rest/api/2/user?username=nosorio:String
+changelog>histories>[35]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[35]>created 2023-03-02T00:43:34.991+0000:String
+changelog>histories>[35]>id 15107839:String
+{{changelog>histories>[35]>items>[0]>field Epic Child:String
+changelog>histories>[35]>items>[0]>fieldtype custom:String
+changelog>histories>[35]>items>[0]>from :Null
+changelog>histories>[35]>items>[0]>fromString :Null
+changelog>histories>[35]>items>[0]>to 1444876:String
+changelog>histories>[35]>items>[0]>toString LRN-201259:String
+}
+}
+}
+{{changelog>histories>[36]>author>active 1:Bool
+{changelog>histories>[36]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[36]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[36]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[36]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[36]>author>displayName Ailin Rojas:String
+changelog>histories>[36]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[36]>author>key aarojas:String
+changelog>histories>[36]>author>name aarojas:String
+changelog>histories>[36]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[36]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[36]>created 2023-03-06T13:55:17.860+0000:String
+changelog>histories>[36]>id 15113585:String
+{{changelog>histories>[36]>items>[0]>field Epic Child:String
+changelog>histories>[36]>items>[0]>fieldtype custom:String
+changelog>histories>[36]>items>[0]>from :Null
+changelog>histories>[36]>items>[0]>fromString :Null
+changelog>histories>[36]>items>[0]>to 1445539:String
+changelog>histories>[36]>items>[0]>toString LRN-201469:String
+}
+}
+}
+{{changelog>histories>[37]>author>active 1:Bool
+{changelog>histories>[37]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[37]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[37]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[37]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[37]>author>displayName Ailin Rojas:String
+changelog>histories>[37]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[37]>author>key aarojas:String
+changelog>histories>[37]>author>name aarojas:String
+changelog>histories>[37]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[37]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[37]>created 2023-03-06T13:58:11.409+0000:String
+changelog>histories>[37]>id 15113594:String
+{{changelog>histories>[37]>items>[0]>field Epic Child:String
+changelog>histories>[37]>items>[0]>fieldtype custom:String
+changelog>histories>[37]>items>[0]>from :Null
+changelog>histories>[37]>items>[0]>fromString :Null
+changelog>histories>[37]>items>[0]>to 1445540:String
+changelog>histories>[37]>items>[0]>toString LRN-201470:String
+}
+}
+}
+{{changelog>histories>[38]>author>active 1:Bool
+{changelog>histories>[38]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[38]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[38]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[38]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[38]>author>displayName Ailin Rojas:String
+changelog>histories>[38]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[38]>author>key aarojas:String
+changelog>histories>[38]>author>name aarojas:String
+changelog>histories>[38]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[38]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[38]>created 2023-03-06T14:01:37.302+0000:String
+changelog>histories>[38]>id 15113601:String
+{{changelog>histories>[38]>items>[0]>field Epic Child:String
+changelog>histories>[38]>items>[0]>fieldtype custom:String
+changelog>histories>[38]>items>[0]>from :Null
+changelog>histories>[38]>items>[0]>fromString :Null
+changelog>histories>[38]>items>[0]>to 1445541:String
+changelog>histories>[38]>items>[0]>toString LRN-201471:String
+}
+}
+}
+{{changelog>histories>[39]>author>active 1:Bool
+{changelog>histories>[39]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[39]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[39]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[39]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[39]>author>displayName Ailin Rojas:String
+changelog>histories>[39]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[39]>author>key aarojas:String
+changelog>histories>[39]>author>name aarojas:String
+changelog>histories>[39]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[39]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[39]>created 2023-03-06T14:04:42.834+0000:String
+changelog>histories>[39]>id 15113616:String
+{{changelog>histories>[39]>items>[0]>field Epic Child:String
+changelog>histories>[39]>items>[0]>fieldtype custom:String
+changelog>histories>[39]>items>[0]>from :Null
+changelog>histories>[39]>items>[0]>fromString :Null
+changelog>histories>[39]>items>[0]>to 1445543:String
+changelog>histories>[39]>items>[0]>toString LRN-201472:String
+}
+}
+}
+{{changelog>histories>[40]>author>active 1:Bool
+{changelog>histories>[40]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[40]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[40]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[40]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[40]>author>displayName Diana Cepeda:String
+changelog>histories>[40]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[40]>author>key JIRAUSER25256:String
+changelog>histories>[40]>author>name dcepeda:String
+changelog>histories>[40]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[40]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[40]>created 2023-03-06T15:18:02.187+0000:String
+changelog>histories>[40]>id 15113933:String
+{{changelog>histories>[40]>items>[0]>field Epic Child:String
+changelog>histories>[40]>items>[0]>fieldtype custom:String
+changelog>histories>[40]>items>[0]>from :Null
+changelog>histories>[40]>items>[0]>fromString :Null
+changelog>histories>[40]>items>[0]>to 1445581:String
+changelog>histories>[40]>items>[0]>toString LRN-201482:String
+}
+}
+}
+{{changelog>histories>[41]>author>active 1:Bool
+{changelog>histories>[41]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[41]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[41]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[41]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[41]>author>displayName Diana Cepeda:String
+changelog>histories>[41]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[41]>author>key JIRAUSER25256:String
+changelog>histories>[41]>author>name dcepeda:String
+changelog>histories>[41]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[41]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[41]>created 2023-03-06T15:21:18.815+0000:String
+changelog>histories>[41]>id 15113975:String
+{{changelog>histories>[41]>items>[0]>field Epic Child:String
+changelog>histories>[41]>items>[0]>fieldtype custom:String
+changelog>histories>[41]>items>[0]>from :Null
+changelog>histories>[41]>items>[0]>fromString :Null
+changelog>histories>[41]>items>[0]>to 1445584:String
+changelog>histories>[41]>items>[0]>toString LRN-201485:String
+}
+}
+}
+{{changelog>histories>[42]>author>active 1:Bool
+{changelog>histories>[42]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[42]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[42]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[42]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[42]>author>displayName Diana Cepeda:String
+changelog>histories>[42]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[42]>author>key JIRAUSER25256:String
+changelog>histories>[42]>author>name dcepeda:String
+changelog>histories>[42]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[42]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[42]>created 2023-03-06T15:22:00.336+0000:String
+changelog>histories>[42]>id 15113981:String
+{{changelog>histories>[42]>items>[0]>field Epic Child:String
+changelog>histories>[42]>items>[0]>fieldtype custom:String
+changelog>histories>[42]>items>[0]>from 1445584:String
+changelog>histories>[42]>items>[0]>fromString LRN-201485:String
+changelog>histories>[42]>items>[0]>to :Null
+changelog>histories>[42]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[43]>author>active 1:Bool
+{changelog>histories>[43]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[43]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[43]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[43]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[43]>author>displayName Ailin Rojas:String
+changelog>histories>[43]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[43]>author>key aarojas:String
+changelog>histories>[43]>author>name aarojas:String
+changelog>histories>[43]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[43]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[43]>created 2023-03-07T15:36:45.823+0000:String
+changelog>histories>[43]>id 15116892:String
+{{changelog>histories>[43]>items>[0]>field Epic Child:String
+changelog>histories>[43]>items>[0]>fieldtype custom:String
+changelog>histories>[43]>items>[0]>from 1442723:String
+changelog>histories>[43]>items>[0]>fromString LRN-200608:String
+changelog>histories>[43]>items>[0]>to :Null
+changelog>histories>[43]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[44]>author>active 1:Bool
+{changelog>histories>[44]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[44]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[44]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[44]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[44]>author>displayName Ailin Rojas:String
+changelog>histories>[44]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[44]>author>key aarojas:String
+changelog>histories>[44]>author>name aarojas:String
+changelog>histories>[44]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[44]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[44]>created 2023-03-07T15:37:18.647+0000:String
+changelog>histories>[44]>id 15116898:String
+{{changelog>histories>[44]>items>[0]>field Epic Child:String
+changelog>histories>[44]>items>[0]>fieldtype custom:String
+changelog>histories>[44]>items>[0]>from 1442724:String
+changelog>histories>[44]>items>[0]>fromString LRN-200609:String
+changelog>histories>[44]>items>[0]>to :Null
+changelog>histories>[44]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[45]>author>active 1:Bool
+{changelog>histories>[45]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[45]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[45]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[45]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[45]>author>displayName Diana Cepeda:String
+changelog>histories>[45]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[45]>author>key JIRAUSER25256:String
+changelog>histories>[45]>author>name dcepeda:String
+changelog>histories>[45]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[45]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[45]>created 2023-03-07T17:13:07.321+0000:String
+changelog>histories>[45]>id 15117395:String
+{{changelog>histories>[45]>items>[0]>field Epic Child:String
+changelog>histories>[45]>items>[0]>fieldtype custom:String
+changelog>histories>[45]>items>[0]>from :Null
+changelog>histories>[45]>items>[0]>fromString :Null
+changelog>histories>[45]>items>[0]>to 1445961:String
+changelog>histories>[45]>items>[0]>toString LRN-201627:String
+}
+}
+}
+{{changelog>histories>[46]>author>active 1:Bool
+{changelog>histories>[46]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[46]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[46]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[46]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[46]>author>displayName Diana Cepeda:String
+changelog>histories>[46]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[46]>author>key JIRAUSER25256:String
+changelog>histories>[46]>author>name dcepeda:String
+changelog>histories>[46]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[46]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[46]>created 2023-03-07T17:28:04.896+0000:String
+changelog>histories>[46]>id 15117443:String
+{{changelog>histories>[46]>items>[0]>field Epic Child:String
+changelog>histories>[46]>items>[0]>fieldtype custom:String
+changelog>histories>[46]>items>[0]>from :Null
+changelog>histories>[46]>items>[0]>fromString :Null
+changelog>histories>[46]>items>[0]>to 1445969:String
+changelog>histories>[46]>items>[0]>toString LRN-201628:String
+}
+}
+}
+{{changelog>histories>[47]>author>active 1:Bool
+{changelog>histories>[47]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[47]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[47]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[47]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[47]>author>displayName Diana Cepeda:String
+changelog>histories>[47]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[47]>author>key JIRAUSER25256:String
+changelog>histories>[47]>author>name dcepeda:String
+changelog>histories>[47]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[47]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[47]>created 2023-03-07T17:29:03.833+0000:String
+changelog>histories>[47]>id 15117449:String
+{{changelog>histories>[47]>items>[0]>field Epic Child:String
+changelog>histories>[47]>items>[0]>fieldtype custom:String
+changelog>histories>[47]>items>[0]>from :Null
+changelog>histories>[47]>items>[0]>fromString :Null
+changelog>histories>[47]>items>[0]>to 1445970:String
+changelog>histories>[47]>items>[0]>toString LRN-201629:String
+}
+}
+}
+{{changelog>histories>[48]>author>active 1:Bool
+{changelog>histories>[48]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[48]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[48]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[48]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[48]>author>displayName Ailin Rojas:String
+changelog>histories>[48]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[48]>author>key aarojas:String
+changelog>histories>[48]>author>name aarojas:String
+changelog>histories>[48]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[48]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[48]>created 2023-03-07T20:27:49.493+0000:String
+changelog>histories>[48]>id 15117894:String
+{{changelog>histories>[48]>items>[0]>field Epic Child:String
+changelog>histories>[48]>items>[0]>fieldtype custom:String
+changelog>histories>[48]>items>[0]>from :Null
+changelog>histories>[48]>items>[0]>fromString :Null
+changelog>histories>[48]>items>[0]>to 1446012:String
+changelog>histories>[48]>items>[0]>toString LRN-201651:String
+}
+}
+}
+{{changelog>histories>[49]>author>active 1:Bool
+{changelog>histories>[49]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[49]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[49]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[49]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[49]>author>displayName Ailin Rojas:String
+changelog>histories>[49]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[49]>author>key aarojas:String
+changelog>histories>[49]>author>name aarojas:String
+changelog>histories>[49]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[49]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[49]>created 2023-03-07T20:30:02.185+0000:String
+changelog>histories>[49]>id 15117904:String
+{{changelog>histories>[49]>items>[0]>field Epic Child:String
+changelog>histories>[49]>items>[0]>fieldtype custom:String
+changelog>histories>[49]>items>[0]>from 1442101:String
+changelog>histories>[49]>items>[0]>fromString LRN-200425:String
+changelog>histories>[49]>items>[0]>to :Null
+changelog>histories>[49]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[50]>author>active 1:Bool
+{changelog>histories>[50]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[50]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[50]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[50]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[50]>author>displayName Diana Cepeda:String
+changelog>histories>[50]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[50]>author>key JIRAUSER25256:String
+changelog>histories>[50]>author>name dcepeda:String
+changelog>histories>[50]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[50]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[50]>created 2023-03-08T17:13:27.977+0000:String
+changelog>histories>[50]>id 15120388:String
+{{changelog>histories>[50]>items>[0]>field Epic Child:String
+changelog>histories>[50]>items>[0]>fieldtype custom:String
+changelog>histories>[50]>items>[0]>from :Null
+changelog>histories>[50]>items>[0]>fromString :Null
+changelog>histories>[50]>items>[0]>to 1446193:String
+changelog>histories>[50]>items>[0]>toString LRN-201709:String
+}
+}
+}
+{{changelog>histories>[51]>author>active 1:Bool
+{changelog>histories>[51]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[51]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[51]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[51]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[51]>author>displayName Oscar Fajardo:String
+changelog>histories>[51]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[51]>author>key JIRAUSER25159:String
+changelog>histories>[51]>author>name ofajardo:String
+changelog>histories>[51]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[51]>author>timeZone America/Bogota:String
+}
+changelog>histories>[51]>created 2023-03-08T18:37:09.191+0000:String
+changelog>histories>[51]>id 15120663:String
+{{changelog>histories>[51]>items>[0]>field Epic Colour:String
+changelog>histories>[51]>items>[0]>fieldtype custom:String
+changelog>histories>[51]>items>[0]>from :Null
+changelog>histories>[51]>items>[0]>fromString ghx-label-14:String
+changelog>histories>[51]>items>[0]>to :Null
+changelog>histories>[51]>items>[0]>toString ghx-label-11:String
+}
+}
+}
+{{changelog>histories>[52]>author>active 1:Bool
+{changelog>histories>[52]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[52]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[52]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[52]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER24213&avatarId=17456:String
+}
+changelog>histories>[52]>author>displayName Nicolas Osorio:String
+changelog>histories>[52]>author>emailAddress nicolas.osorio@blackboard.com:String
+changelog>histories>[52]>author>key JIRAUSER24213:String
+changelog>histories>[52]>author>name nosorio:String
+changelog>histories>[52]>author>self https://jira.bbpd.io/rest/api/2/user?username=nosorio:String
+changelog>histories>[52]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[52]>created 2023-03-08T19:48:26.938+0000:String
+changelog>histories>[52]>id 15120945:String
+{{changelog>histories>[52]>items>[0]>field Epic Child:String
+changelog>histories>[52]>items>[0]>fieldtype custom:String
+changelog>histories>[52]>items>[0]>from :Null
+changelog>histories>[52]>items>[0]>fromString :Null
+changelog>histories>[52]>items>[0]>to 1446240:String
+changelog>histories>[52]>items>[0]>toString LRN-201733:String
+}
+}
+}
+{{changelog>histories>[53]>author>active 1:Bool
+{changelog>histories>[53]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[53]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[53]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[53]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[53]>author>displayName Ailin Rojas:String
+changelog>histories>[53]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[53]>author>key aarojas:String
+changelog>histories>[53]>author>name aarojas:String
+changelog>histories>[53]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[53]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[53]>created 2023-03-08T19:55:26.790+0000:String
+changelog>histories>[53]>id 15120985:String
+{{changelog>histories>[53]>items>[0]>field Epic Child:String
+changelog>histories>[53]>items>[0]>fieldtype custom:String
+changelog>histories>[53]>items>[0]>from :Null
+changelog>histories>[53]>items>[0]>fromString :Null
+changelog>histories>[53]>items>[0]>to 1446244:String
+changelog>histories>[53]>items>[0]>toString LRN-201737:String
+}
+}
+}
+{{changelog>histories>[54]>author>active 1:Bool
+{changelog>histories>[54]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[54]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[54]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[54]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[54]>author>displayName Ailin Rojas:String
+changelog>histories>[54]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[54]>author>key aarojas:String
+changelog>histories>[54]>author>name aarojas:String
+changelog>histories>[54]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[54]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[54]>created 2023-03-14T19:26:22.087+0000:String
+changelog>histories>[54]>id 15131264:String
+{{changelog>histories>[54]>items>[0]>field Epic Child:String
+changelog>histories>[54]>items>[0]>fieldtype custom:String
+changelog>histories>[54]>items>[0]>from :Null
+changelog>histories>[54]>items>[0]>fromString :Null
+changelog>histories>[54]>items>[0]>to 1447045:String
+changelog>histories>[54]>items>[0]>toString LRN-202029:String
+}
+}
+}
+{{changelog>histories>[55]>author>active 1:Bool
+{changelog>histories>[55]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[55]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[55]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[55]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[55]>author>displayName Diana Cepeda:String
+changelog>histories>[55]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[55]>author>key JIRAUSER25256:String
+changelog>histories>[55]>author>name dcepeda:String
+changelog>histories>[55]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[55]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[55]>created 2023-03-14T19:39:39.468+0000:String
+changelog>histories>[55]>id 15131455:String
+{{changelog>histories>[55]>items>[0]>field Epic Child:String
+changelog>histories>[55]>items>[0]>fieldtype custom:String
+changelog>histories>[55]>items>[0]>from :Null
+changelog>histories>[55]>items>[0]>fromString :Null
+changelog>histories>[55]>items>[0]>to 1447047:String
+changelog>histories>[55]>items>[0]>toString LRN-202031:String
+}
+}
+}
+{{changelog>histories>[56]>author>active 1:Bool
+{changelog>histories>[56]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[56]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[56]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[56]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER26035&avatarId=18872:String
+}
+changelog>histories>[56]>author>displayName Daniel Rodriguez Venegas:String
+changelog>histories>[56]>author>emailAddress daniel.rodriguezvenegas@blackboard.com:String
+changelog>histories>[56]>author>key JIRAUSER26035:String
+changelog>histories>[56]>author>name drodriguezvenegas:String
+changelog>histories>[56]>author>self https://jira.bbpd.io/rest/api/2/user?username=drodriguezvenegas:String
+changelog>histories>[56]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[56]>created 2023-03-14T20:16:30.335+0000:String
+changelog>histories>[56]>id 15131982:String
+{{changelog>histories>[56]>items>[0]>field Epic Child:String
+changelog>histories>[56]>items>[0]>fieldtype custom:String
+changelog>histories>[56]>items>[0]>from :Null
+changelog>histories>[56]>items>[0]>fromString :Null
+changelog>histories>[56]>items>[0]>to 1447057:String
+changelog>histories>[56]>items>[0]>toString LRN-202035:String
+}
+}
+}
+{{changelog>histories>[57]>author>active 1:Bool
+{changelog>histories>[57]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[57]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[57]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[57]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER24213&avatarId=17456:String
+}
+changelog>histories>[57]>author>displayName Nicolas Osorio:String
+changelog>histories>[57]>author>emailAddress nicolas.osorio@blackboard.com:String
+changelog>histories>[57]>author>key JIRAUSER24213:String
+changelog>histories>[57]>author>name nosorio:String
+changelog>histories>[57]>author>self https://jira.bbpd.io/rest/api/2/user?username=nosorio:String
+changelog>histories>[57]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[57]>created 2023-03-14T20:48:50.315+0000:String
+changelog>histories>[57]>id 15132199:String
+{{changelog>histories>[57]>items>[0]>field Epic Child:String
+changelog>histories>[57]>items>[0]>fieldtype custom:String
+changelog>histories>[57]>items>[0]>from :Null
+changelog>histories>[57]>items>[0]>fromString :Null
+changelog>histories>[57]>items>[0]>to 1447061:String
+changelog>histories>[57]>items>[0]>toString LRN-202037:String
+}
+}
+}
+{{changelog>histories>[58]>author>active 1:Bool
+{changelog>histories>[58]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[58]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[58]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[58]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[58]>author>displayName Oscar Fajardo:String
+changelog>histories>[58]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[58]>author>key JIRAUSER25159:String
+changelog>histories>[58]>author>name ofajardo:String
+changelog>histories>[58]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[58]>author>timeZone America/Bogota:String
+}
+changelog>histories>[58]>created 2023-03-15T23:41:32.959+0000:String
+changelog>histories>[58]>id 15141465:String
+{{changelog>histories>[58]>items>[0]>field summary:String
+changelog>histories>[58]>items>[0]>fieldtype jira:String
+changelog>histories>[58]>items>[0]>from :Null
+changelog>histories>[58]>items>[0]>fromString Development - Multiple Choice - Partial & negative credit:String
+changelog>histories>[58]>items>[0]>to :Null
+changelog>histories>[58]>items>[0]>toString Development - Multiple Choice - Partial & Negative Credit:String
+}
+}
+}
+{{changelog>histories>[59]>author>active 1:Bool
+{changelog>histories>[59]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[59]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[59]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[59]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[59]>author>displayName Oscar Fajardo:String
+changelog>histories>[59]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[59]>author>key JIRAUSER25159:String
+changelog>histories>[59]>author>name ofajardo:String
+changelog>histories>[59]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[59]>author>timeZone America/Bogota:String
+}
+changelog>histories>[59]>created 2023-03-15T23:42:22.492+0000:String
+changelog>histories>[59]>id 15141469:String
+{{changelog>histories>[59]>items>[0]>field summary:String
+changelog>histories>[59]>items>[0]>fieldtype jira:String
+changelog>histories>[59]>items>[0]>from :Null
+changelog>histories>[59]>items>[0]>fromString Development - Multiple Choice - Partial & Negative Credit:String
+changelog>histories>[59]>items>[0]>to :Null
+changelog>histories>[59]>items>[0]>toString Development - Multiple Choice Questions - Partial & Negative Credit:String
+}
+}
+}
+{{changelog>histories>[60]>author>active 1:Bool
+{changelog>histories>[60]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[60]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[60]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[60]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[60]>author>displayName Oscar Fajardo:String
+changelog>histories>[60]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[60]>author>key JIRAUSER25159:String
+changelog>histories>[60]>author>name ofajardo:String
+changelog>histories>[60]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[60]>author>timeZone America/Bogota:String
+}
+changelog>histories>[60]>created 2023-03-15T23:42:27.466+0000:String
+changelog>histories>[60]>id 15141471:String
+{{changelog>histories>[60]>items>[0]>field Epic Name:String
+changelog>histories>[60]>items>[0]>fieldtype custom:String
+changelog>histories>[60]>items>[0]>from :Null
+changelog>histories>[60]>items>[0]>fromString Development - Multiple Choice - Partial & negative credit:String
+changelog>histories>[60]>items>[0]>to :Null
+changelog>histories>[60]>items>[0]>toString Development - Multiple Choice Questions - Partial & Negative Credit:String
+}
+}
+}
+{{changelog>histories>[61]>author>active 1:Bool
+{changelog>histories>[61]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[61]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[61]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[61]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[61]>author>displayName Diana Cepeda:String
+changelog>histories>[61]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[61]>author>key JIRAUSER25256:String
+changelog>histories>[61]>author>name dcepeda:String
+changelog>histories>[61]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[61]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[61]>created 2023-03-21T14:57:35.021+0000:String
+changelog>histories>[61]>id 15150857:String
+{{changelog>histories>[61]>items>[0]>field Epic Child:String
+changelog>histories>[61]>items>[0]>fieldtype custom:String
+changelog>histories>[61]>items>[0]>from :Null
+changelog>histories>[61]>items>[0]>fromString :Null
+changelog>histories>[61]>items>[0]>to 1447919:String
+changelog>histories>[61]>items>[0]>toString LRN-202387:String
+}
+}
+}
+{{changelog>histories>[62]>author>active 1:Bool
+{changelog>histories>[62]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[62]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[62]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[62]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[62]>author>displayName Diana Cepeda:String
+changelog>histories>[62]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[62]>author>key JIRAUSER25256:String
+changelog>histories>[62]>author>name dcepeda:String
+changelog>histories>[62]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[62]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[62]>created 2023-03-21T20:49:17.049+0000:String
+changelog>histories>[62]>id 15151946:String
+{{changelog>histories>[62]>items>[0]>field Epic Child:String
+changelog>histories>[62]>items>[0]>fieldtype custom:String
+changelog>histories>[62]>items>[0]>from :Null
+changelog>histories>[62]>items>[0]>fromString :Null
+changelog>histories>[62]>items>[0]>to 1448168:String
+changelog>histories>[62]>items>[0]>toString LRN-202582:String
+}
+}
+}
+{{changelog>histories>[63]>author>active 1:Bool
+{changelog>histories>[63]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[63]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[63]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[63]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[63]>author>displayName Diana Cepeda:String
+changelog>histories>[63]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[63]>author>key JIRAUSER25256:String
+changelog>histories>[63]>author>name dcepeda:String
+changelog>histories>[63]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[63]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[63]>created 2023-03-22T15:00:59.506+0000:String
+changelog>histories>[63]>id 15153414:String
+{{changelog>histories>[63]>items>[0]>field Epic Child:String
+changelog>histories>[63]>items>[0]>fieldtype custom:String
+changelog>histories>[63]>items>[0]>from 1445970:String
+changelog>histories>[63]>items>[0]>fromString LRN-201629:String
+changelog>histories>[63]>items>[0]>to :Null
+changelog>histories>[63]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[64]>author>active 1:Bool
+{changelog>histories>[64]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[64]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[64]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[64]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[64]>author>displayName Diana Cepeda:String
+changelog>histories>[64]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[64]>author>key JIRAUSER25256:String
+changelog>histories>[64]>author>name dcepeda:String
+changelog>histories>[64]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[64]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[64]>created 2023-03-22T15:01:39.829+0000:String
+changelog>histories>[64]>id 15153419:String
+{{changelog>histories>[64]>items>[0]>field Epic Child:String
+changelog>histories>[64]>items>[0]>fieldtype custom:String
+changelog>histories>[64]>items>[0]>from 1445969:String
+changelog>histories>[64]>items>[0]>fromString LRN-201628:String
+changelog>histories>[64]>items>[0]>to :Null
+changelog>histories>[64]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[65]>author>active 1:Bool
+{changelog>histories>[65]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[65]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[65]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[65]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[65]>author>displayName Diana Cepeda:String
+changelog>histories>[65]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[65]>author>key JIRAUSER25256:String
+changelog>histories>[65]>author>name dcepeda:String
+changelog>histories>[65]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[65]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[65]>created 2023-04-04T16:22:36.810+0000:String
+changelog>histories>[65]>id 15171171:String
+{{changelog>histories>[65]>items>[0]>field Epic Child:String
+changelog>histories>[65]>items>[0]>fieldtype custom:String
+changelog>histories>[65]>items>[0]>from :Null
+changelog>histories>[65]>items>[0]>fromString :Null
+changelog>histories>[65]>items>[0]>to 1449841:String
+changelog>histories>[65]>items>[0]>toString LRN-203466:String
+}
+}
+}
+{{changelog>histories>[66]>author>active 1:Bool
+{changelog>histories>[66]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[66]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[66]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[66]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[66]>author>displayName Ailin Rojas:String
+changelog>histories>[66]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[66]>author>key aarojas:String
+changelog>histories>[66]>author>name aarojas:String
+changelog>histories>[66]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[66]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[66]>created 2023-04-04T19:22:31.661+0000:String
+changelog>histories>[66]>id 15171674:String
+{{changelog>histories>[66]>items>[0]>field Epic Child:String
+changelog>histories>[66]>items>[0]>fieldtype custom:String
+changelog>histories>[66]>items>[0]>from :Null
+changelog>histories>[66]>items>[0]>fromString :Null
+changelog>histories>[66]>items>[0]>to 1449863:String
+changelog>histories>[66]>items>[0]>toString LRN-203482:String
+}
+}
+}
+{{changelog>histories>[67]>author>active 1:Bool
+{changelog>histories>[67]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[67]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[67]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[67]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[67]>author>displayName Ailin Rojas:String
+changelog>histories>[67]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[67]>author>key aarojas:String
+changelog>histories>[67]>author>name aarojas:String
+changelog>histories>[67]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[67]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[67]>created 2023-04-04T19:35:10.067+0000:String
+changelog>histories>[67]>id 15171703:String
+{{changelog>histories>[67]>items>[0]>field Epic Child:String
+changelog>histories>[67]>items>[0]>fieldtype custom:String
+changelog>histories>[67]>items>[0]>from :Null
+changelog>histories>[67]>items>[0]>fromString :Null
+changelog>histories>[67]>items>[0]>to 1449868:String
+changelog>histories>[67]>items>[0]>toString LRN-203484:String
+}
+}
+}
+{{changelog>histories>[68]>author>active 1:Bool
+{changelog>histories>[68]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[68]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[68]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[68]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[68]>author>displayName Ailin Rojas:String
+changelog>histories>[68]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[68]>author>key aarojas:String
+changelog>histories>[68]>author>name aarojas:String
+changelog>histories>[68]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[68]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[68]>created 2023-04-04T19:48:11.549+0000:String
+changelog>histories>[68]>id 15171756:String
+{{changelog>histories>[68]>items>[0]>field Epic Child:String
+changelog>histories>[68]>items>[0]>fieldtype custom:String
+changelog>histories>[68]>items>[0]>from 1445543:String
+changelog>histories>[68]>items>[0]>fromString LRN-201472:String
+changelog>histories>[68]>items>[0]>to :Null
+changelog>histories>[68]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[69]>author>active 1:Bool
+{changelog>histories>[69]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[69]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[69]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[69]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[69]>author>displayName Ailin Rojas:String
+changelog>histories>[69]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[69]>author>key aarojas:String
+changelog>histories>[69]>author>name aarojas:String
+changelog>histories>[69]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[69]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[69]>created 2023-04-05T16:58:49.462+0000:String
+changelog>histories>[69]>id 15174155:String
+{{changelog>histories>[69]>items>[0]>field Epic Child:String
+changelog>histories>[69]>items>[0]>fieldtype custom:String
+changelog>histories>[69]>items>[0]>from :Null
+changelog>histories>[69]>items>[0]>fromString :Null
+changelog>histories>[69]>items>[0]>to 1450000:String
+changelog>histories>[69]>items>[0]>toString LRN-203566:String
+}
+}
+}
+{{changelog>histories>[70]>author>active 1:Bool
+{changelog>histories>[70]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[70]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[70]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[70]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[70]>author>displayName Ailin Rojas:String
+changelog>histories>[70]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[70]>author>key aarojas:String
+changelog>histories>[70]>author>name aarojas:String
+changelog>histories>[70]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[70]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[70]>created 2023-04-05T16:59:56.834+0000:String
+changelog>histories>[70]>id 15174162:String
+{{changelog>histories>[70]>items>[0]>field Epic Child:String
+changelog>histories>[70]>items>[0]>fieldtype custom:String
+changelog>histories>[70]>items>[0]>from :Null
+changelog>histories>[70]>items>[0]>fromString :Null
+changelog>histories>[70]>items>[0]>to 1450002:String
+changelog>histories>[70]>items>[0]>toString LRN-203568:String
+}
+}
+}
+{{changelog>histories>[71]>author>active 1:Bool
+{changelog>histories>[71]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[71]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[71]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[71]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[71]>author>displayName Ailin Rojas:String
+changelog>histories>[71]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[71]>author>key aarojas:String
+changelog>histories>[71]>author>name aarojas:String
+changelog>histories>[71]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[71]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[71]>created 2023-04-05T20:34:28.220+0000:String
+changelog>histories>[71]>id 15174746:String
+{{changelog>histories>[71]>items>[0]>field Epic Child:String
+changelog>histories>[71]>items>[0]>fieldtype custom:String
+changelog>histories>[71]>items>[0]>from :Null
+changelog>histories>[71]>items>[0]>fromString :Null
+changelog>histories>[71]>items>[0]>to 1445543:String
+changelog>histories>[71]>items>[0]>toString LRN-201472:String
+}
+}
+}
+{{changelog>histories>[72]>author>active 1:Bool
+{changelog>histories>[72]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[72]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[72]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[72]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[72]>author>displayName Oscar Fajardo:String
+changelog>histories>[72]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[72]>author>key JIRAUSER25159:String
+changelog>histories>[72]>author>name ofajardo:String
+changelog>histories>[72]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[72]>author>timeZone America/Bogota:String
+}
+changelog>histories>[72]>created 2023-04-11T20:02:52.754+0000:String
+changelog>histories>[72]>id 15179054:String
+{{changelog>histories>[72]>items>[0]>field Epic Child:String
+changelog>histories>[72]>items>[0]>fieldtype custom:String
+changelog>histories>[72]>items>[0]>from :Null
+changelog>histories>[72]>items>[0]>fromString :Null
+changelog>histories>[72]>items>[0]>to 1447953:String
+changelog>histories>[72]>items>[0]>toString LRN-202409:String
+}
+}
+}
+{{changelog>histories>[73]>author>active 1:Bool
+{changelog>histories>[73]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[73]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[73]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[73]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[73]>author>displayName Oscar Fajardo:String
+changelog>histories>[73]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[73]>author>key JIRAUSER25159:String
+changelog>histories>[73]>author>name ofajardo:String
+changelog>histories>[73]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[73]>author>timeZone America/Bogota:String
+}
+changelog>histories>[73]>created 2023-04-11T20:36:04.418+0000:String
+changelog>histories>[73]>id 15179097:String
+{{changelog>histories>[73]>items>[0]>field Epic Child:String
+changelog>histories>[73]>items>[0]>fieldtype custom:String
+changelog>histories>[73]>items>[0]>from :Null
+changelog>histories>[73]>items>[0]>fromString :Null
+changelog>histories>[73]>items>[0]>to 1439482:String
+changelog>histories>[73]>items>[0]>toString LRN-199712:String
+}
+}
+}
+{{changelog>histories>[74]>author>active 1:Bool
+{changelog>histories>[74]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[74]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[74]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[74]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[74]>author>displayName Oscar Fajardo:String
+changelog>histories>[74]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[74]>author>key JIRAUSER25159:String
+changelog>histories>[74]>author>name ofajardo:String
+changelog>histories>[74]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[74]>author>timeZone America/Bogota:String
+}
+changelog>histories>[74]>created 2023-04-11T20:40:13.689+0000:String
+changelog>histories>[74]>id 15179104:String
+{{changelog>histories>[74]>items>[0]>field Epic Child:String
+changelog>histories>[74]>items>[0]>fieldtype custom:String
+changelog>histories>[74]>items>[0]>from :Null
+changelog>histories>[74]>items>[0]>fromString :Null
+changelog>histories>[74]>items>[0]>to 1445970:String
+changelog>histories>[74]>items>[0]>toString LRN-201629:String
+}
+}
+}
+{{changelog>histories>[75]>author>active 1:Bool
+{changelog>histories>[75]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[75]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[75]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[75]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[75]>author>displayName Ailin Rojas:String
+changelog>histories>[75]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[75]>author>key aarojas:String
+changelog>histories>[75]>author>name aarojas:String
+changelog>histories>[75]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[75]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[75]>created 2023-04-18T14:50:18.942+0000:String
+changelog>histories>[75]>id 15187053:String
+{{changelog>histories>[75]>items>[0]>field Epic Child:String
+changelog>histories>[75]>items>[0]>fieldtype custom:String
+changelog>histories>[75]>items>[0]>from :Null
+changelog>histories>[75]>items>[0]>fromString :Null
+changelog>histories>[75]>items>[0]>to 1442101:String
+changelog>histories>[75]>items>[0]>toString LRN-200425:String
+}
+}
+}
+{{changelog>histories>[76]>author>active 1:Bool
+{changelog>histories>[76]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[76]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[76]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[76]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[76]>author>displayName Ailin Rojas:String
+changelog>histories>[76]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[76]>author>key aarojas:String
+changelog>histories>[76]>author>name aarojas:String
+changelog>histories>[76]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[76]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[76]>created 2023-04-18T15:01:58.214+0000:String
+changelog>histories>[76]>id 15187113:String
+{{changelog>histories>[76]>items>[0]>field Epic Child:String
+changelog>histories>[76]>items>[0]>fieldtype custom:String
+changelog>histories>[76]>items>[0]>from :Null
+changelog>histories>[76]>items>[0]>fromString :Null
+changelog>histories>[76]>items>[0]>to 1442630:String
+changelog>histories>[76]>items>[0]>toString LRN-200588:String
+}
+}
+}
+{{changelog>histories>[77]>author>active 1:Bool
+{changelog>histories>[77]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[77]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[77]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[77]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[77]>author>displayName Ailin Rojas:String
+changelog>histories>[77]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[77]>author>key aarojas:String
+changelog>histories>[77]>author>name aarojas:String
+changelog>histories>[77]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[77]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[77]>created 2023-04-18T15:07:22.418+0000:String
+changelog>histories>[77]>id 15187151:String
+{{changelog>histories>[77]>items>[0]>field Epic Child:String
+changelog>histories>[77]>items>[0]>fieldtype custom:String
+changelog>histories>[77]>items>[0]>from :Null
+changelog>histories>[77]>items>[0]>fromString :Null
+changelog>histories>[77]>items>[0]>to 1451316:String
+changelog>histories>[77]>items>[0]>toString LRN-204292:String
+}
+}
+}
+{{changelog>histories>[78]>author>active 1:Bool
+{changelog>histories>[78]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[78]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[78]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER24213&avatarId=17456:String
+changelog>histories>[78]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER24213&avatarId=17456:String
+}
+changelog>histories>[78]>author>displayName Nicolas Osorio:String
+changelog>histories>[78]>author>emailAddress nicolas.osorio@blackboard.com:String
+changelog>histories>[78]>author>key JIRAUSER24213:String
+changelog>histories>[78]>author>name nosorio:String
+changelog>histories>[78]>author>self https://jira.bbpd.io/rest/api/2/user?username=nosorio:String
+changelog>histories>[78]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[78]>created 2023-04-18T19:17:40.423+0000:String
+changelog>histories>[78]>id 15187752:String
+{{changelog>histories>[78]>items>[0]>field Epic Child:String
+changelog>histories>[78]>items>[0]>fieldtype custom:String
+changelog>histories>[78]>items>[0]>from :Null
+changelog>histories>[78]>items>[0]>fromString :Null
+changelog>histories>[78]>items>[0]>to 1451354:String
+changelog>histories>[78]>items>[0]>toString LRN-204321:String
+}
+}
+}
+{{changelog>histories>[79]>author>active 1:Bool
+{changelog>histories>[79]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[79]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[79]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[79]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[79]>author>displayName Ailin Rojas:String
+changelog>histories>[79]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[79]>author>key aarojas:String
+changelog>histories>[79]>author>name aarojas:String
+changelog>histories>[79]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[79]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[79]>created 2023-04-18T19:25:17.663+0000:String
+changelog>histories>[79]>id 15187767:String
+{{changelog>histories>[79]>items>[0]>field Epic Child:String
+changelog>histories>[79]>items>[0]>fieldtype custom:String
+changelog>histories>[79]>items>[0]>from :Null
+changelog>histories>[79]>items>[0]>fromString :Null
+changelog>histories>[79]>items>[0]>to 1451356:String
+changelog>histories>[79]>items>[0]>toString LRN-204323:String
+}
+}
+}
+{{changelog>histories>[80]>author>active 1:Bool
+{changelog>histories>[80]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[80]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[80]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[80]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[80]>author>displayName Ailin Rojas:String
+changelog>histories>[80]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[80]>author>key aarojas:String
+changelog>histories>[80]>author>name aarojas:String
+changelog>histories>[80]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[80]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[80]>created 2023-04-18T19:27:36.084+0000:String
+changelog>histories>[80]>id 15187778:String
+{{changelog>histories>[80]>items>[0]>field Epic Child:String
+changelog>histories>[80]>items>[0]>fieldtype custom:String
+changelog>histories>[80]>items>[0]>from :Null
+changelog>histories>[80]>items>[0]>fromString :Null
+changelog>histories>[80]>items>[0]>to 1451358:String
+changelog>histories>[80]>items>[0]>toString LRN-204325:String
+}
+}
+}
+{{changelog>histories>[81]>author>active 1:Bool
+{changelog>histories>[81]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[81]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[81]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[81]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[81]>author>displayName Ailin Rojas:String
+changelog>histories>[81]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[81]>author>key aarojas:String
+changelog>histories>[81]>author>name aarojas:String
+changelog>histories>[81]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[81]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[81]>created 2023-04-18T20:05:58.282+0000:String
+changelog>histories>[81]>id 15187922:String
+{{changelog>histories>[81]>items>[0]>field Epic Child:String
+changelog>histories>[81]>items>[0]>fieldtype custom:String
+changelog>histories>[81]>items>[0]>from :Null
+changelog>histories>[81]>items>[0]>fromString :Null
+changelog>histories>[81]>items>[0]>to 1447928:String
+changelog>histories>[81]>items>[0]>toString LRN-202395:String
+}
+}
+}
+{{changelog>histories>[82]>author>active 1:Bool
+{changelog>histories>[82]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[82]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[82]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[82]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[82]>author>displayName Oscar Fajardo:String
+changelog>histories>[82]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[82]>author>key JIRAUSER25159:String
+changelog>histories>[82]>author>name ofajardo:String
+changelog>histories>[82]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[82]>author>timeZone America/Bogota:String
+}
+changelog>histories>[82]>created 2023-04-20T05:07:04.430+0000:String
+changelog>histories>[82]>id 15191378:String
+{{changelog>histories>[82]>items>[0]>field assignee:String
+changelog>histories>[82]>items>[0]>fieldtype jira:String
+changelog>histories>[82]>items>[0]>from :Null
+changelog>histories>[82]>items>[0]>fromString :Null
+changelog>histories>[82]>items>[0]>to JIRAUSER25159:String
+changelog>histories>[82]>items>[0]>toString Oscar Fajardo:String
+}
+{changelog>histories>[82]>items>[1]>field status:String
+changelog>histories>[82]>items>[1]>fieldtype jira:String
+changelog>histories>[82]>items>[1]>from 1:String
+changelog>histories>[82]>items>[1]>fromString OPEN:String
+changelog>histories>[82]>items>[1]>to 3:String
+changelog>histories>[82]>items>[1]>toString In Progress:String
+}
+}
+}
+{{changelog>histories>[83]>author>active 1:Bool
+{changelog>histories>[83]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&avatarId=10272:String
+changelog>histories>[83]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&avatarId=10272:String
+changelog>histories>[83]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&avatarId=10272:String
+changelog>histories>[83]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?avatarId=10272:String
+}
+changelog>histories>[83]>author>displayName Juan Carlos De Jesus:String
+changelog>histories>[83]>author>emailAddress juancarlos.dejesus@blackboard.com:String
+changelog>histories>[83]>author>key JIRAUSER25189:String
+changelog>histories>[83]>author>name jdejesus:String
+changelog>histories>[83]>author>self https://jira.bbpd.io/rest/api/2/user?username=jdejesus:String
+changelog>histories>[83]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[83]>created 2023-04-24T19:32:15.587+0000:String
+changelog>histories>[83]>id 15195551:String
+{{changelog>histories>[83]>items>[0]>field Epic Child:String
+changelog>histories>[83]>items>[0]>fieldtype custom:String
+changelog>histories>[83]>items>[0]>from :Null
+changelog>histories>[83]>items>[0]>fromString :Null
+changelog>histories>[83]>items>[0]>to 1451988:String
+changelog>histories>[83]>items>[0]>toString LRN-204630:String
+}
+}
+}
+{{changelog>histories>[84]>author>active 1:Bool
+{changelog>histories>[84]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[84]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[84]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[84]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[84]>author>displayName Diana Cepeda:String
+changelog>histories>[84]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[84]>author>key JIRAUSER25256:String
+changelog>histories>[84]>author>name dcepeda:String
+changelog>histories>[84]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[84]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[84]>created 2023-04-25T14:43:32.285+0000:String
+changelog>histories>[84]>id 15196554:String
+{{changelog>histories>[84]>items>[0]>field Epic Child:String
+changelog>histories>[84]>items>[0]>fieldtype custom:String
+changelog>histories>[84]>items>[0]>from :Null
+changelog>histories>[84]>items>[0]>fromString :Null
+changelog>histories>[84]>items>[0]>to 1452066:String
+changelog>histories>[84]>items>[0]>toString LRN-204660:String
+}
+}
+}
+{{changelog>histories>[85]>author>active 1:Bool
+{changelog>histories>[85]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&avatarId=10272:String
+changelog>histories>[85]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&avatarId=10272:String
+changelog>histories>[85]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&avatarId=10272:String
+changelog>histories>[85]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?avatarId=10272:String
+}
+changelog>histories>[85]>author>displayName Juan Carlos De Jesus:String
+changelog>histories>[85]>author>emailAddress juancarlos.dejesus@blackboard.com:String
+changelog>histories>[85]>author>key JIRAUSER25189:String
+changelog>histories>[85]>author>name jdejesus:String
+changelog>histories>[85]>author>self https://jira.bbpd.io/rest/api/2/user?username=jdejesus:String
+changelog>histories>[85]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[85]>created 2023-04-25T19:27:31.584+0000:String
+changelog>histories>[85]>id 15197424:String
+{{changelog>histories>[85]>items>[0]>field Epic Child:String
+changelog>histories>[85]>items>[0]>fieldtype custom:String
+changelog>histories>[85]>items>[0]>from :Null
+changelog>histories>[85]>items>[0]>fromString :Null
+changelog>histories>[85]>items>[0]>to 1452118:String
+changelog>histories>[85]>items>[0]>toString LRN-204692:String
+}
+}
+}
+{{changelog>histories>[86]>author>active 1:Bool
+{changelog>histories>[86]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&avatarId=10272:String
+changelog>histories>[86]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&avatarId=10272:String
+changelog>histories>[86]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&avatarId=10272:String
+changelog>histories>[86]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?avatarId=10272:String
+}
+changelog>histories>[86]>author>displayName Juan Carlos De Jesus:String
+changelog>histories>[86]>author>emailAddress juancarlos.dejesus@blackboard.com:String
+changelog>histories>[86]>author>key JIRAUSER25189:String
+changelog>histories>[86]>author>name jdejesus:String
+changelog>histories>[86]>author>self https://jira.bbpd.io/rest/api/2/user?username=jdejesus:String
+changelog>histories>[86]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[86]>created 2023-04-26T15:10:46.869+0000:String
+changelog>histories>[86]>id 15198775:String
+{{changelog>histories>[86]>items>[0]>field Epic Child:String
+changelog>histories>[86]>items>[0]>fieldtype custom:String
+changelog>histories>[86]>items>[0]>from :Null
+changelog>histories>[86]>items>[0]>fromString :Null
+changelog>histories>[86]>items>[0]>to 1452246:String
+changelog>histories>[86]>items>[0]>toString LRN-204758:String
+}
+}
+}
+{{changelog>histories>[87]>author>active 1:Bool
+{changelog>histories>[87]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[87]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[87]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[87]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[87]>author>displayName Diana Cepeda:String
+changelog>histories>[87]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[87]>author>key JIRAUSER25256:String
+changelog>histories>[87]>author>name dcepeda:String
+changelog>histories>[87]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[87]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[87]>created 2023-04-27T20:46:27.392+0000:String
+changelog>histories>[87]>id 15201340:String
+{{changelog>histories>[87]>items>[0]>field RemoteIssueLink:String
+changelog>histories>[87]>items>[0]>fieldtype jira:String
+changelog>histories>[87]>items>[0]>from :Null
+changelog>histories>[87]>items>[0]>fromString :Null
+changelog>histories>[87]>items>[0]>to 423029:String
+changelog>histories>[87]>items>[0]>toString This issue links to "Page (Confluence)":String
+}
+}
+}
+{{changelog>histories>[88]>author>active 1:Bool
+{changelog>histories>[88]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER24907&avatarId=18004:String
+changelog>histories>[88]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER24907&avatarId=18004:String
+changelog>histories>[88]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER24907&avatarId=18004:String
+changelog>histories>[88]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER24907&avatarId=18004:String
+}
+changelog>histories>[88]>author>displayName Ruben Moreno:String
+changelog>histories>[88]>author>emailAddress ruben.moreno@blackboard.com:String
+changelog>histories>[88]>author>key JIRAUSER24907:String
+changelog>histories>[88]>author>name rmoreno:String
+changelog>histories>[88]>author>self https://jira.bbpd.io/rest/api/2/user?username=rmoreno:String
+changelog>histories>[88]>author>timeZone America/Bogota:String
+}
+changelog>histories>[88]>created 2023-04-28T16:51:55.356+0000:String
+changelog>histories>[88]>id 15202481:String
+{{changelog>histories>[88]>items>[0]>field Epic Child:String
+changelog>histories>[88]>items>[0]>fieldtype custom:String
+changelog>histories>[88]>items>[0]>from :Null
+changelog>histories>[88]>items>[0]>fromString :Null
+changelog>histories>[88]>items>[0]>to 1452702:String
+changelog>histories>[88]>items>[0]>toString LRN-204998:String
+}
+}
+}
+{{changelog>histories>[89]>author>active 1:Bool
+{changelog>histories>[89]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[89]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[89]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[89]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[89]>author>displayName Ailin Rojas:String
+changelog>histories>[89]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[89]>author>key aarojas:String
+changelog>histories>[89]>author>name aarojas:String
+changelog>histories>[89]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[89]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[89]>created 2023-05-02T19:07:59.491+0000:String
+changelog>histories>[89]>id 15204775:String
+{{changelog>histories>[89]>items>[0]>field Epic Child:String
+changelog>histories>[89]>items>[0]>fieldtype custom:String
+changelog>histories>[89]>items>[0]>from :Null
+changelog>histories>[89]>items>[0]>fromString :Null
+changelog>histories>[89]>items>[0]>to 1452835:String
+changelog>histories>[89]>items>[0]>toString LRN-205082:String
+}
+}
+}
+{{changelog>histories>[90]>author>active 1:Bool
+{changelog>histories>[90]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[90]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[90]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[90]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[90]>author>displayName Diana Cepeda:String
+changelog>histories>[90]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[90]>author>key JIRAUSER25256:String
+changelog>histories>[90]>author>name dcepeda:String
+changelog>histories>[90]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[90]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[90]>created 2023-05-03T16:11:06.934+0000:String
+changelog>histories>[90]>id 15206382:String
+{{changelog>histories>[90]>items>[0]>field Epic Child:String
+changelog>histories>[90]>items>[0]>fieldtype custom:String
+changelog>histories>[90]>items>[0]>from :Null
+changelog>histories>[90]>items>[0]>fromString :Null
+changelog>histories>[90]>items>[0]>to 1452949:String
+changelog>histories>[90]>items>[0]>toString LRN-205178:String
+}
+}
+}
+{{changelog>histories>[91]>author>active 1:Bool
+{changelog>histories>[91]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[91]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[91]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[91]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[91]>author>displayName Diana Cepeda:String
+changelog>histories>[91]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[91]>author>key JIRAUSER25256:String
+changelog>histories>[91]>author>name dcepeda:String
+changelog>histories>[91]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[91]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[91]>created 2023-05-03T16:25:36.097+0000:String
+changelog>histories>[91]>id 15206450:String
+{{changelog>histories>[91]>items>[0]>field Epic Child:String
+changelog>histories>[91]>items>[0]>fieldtype custom:String
+changelog>histories>[91]>items>[0]>from :Null
+changelog>histories>[91]>items>[0]>fromString :Null
+changelog>histories>[91]>items>[0]>to 1452951:String
+changelog>histories>[91]>items>[0]>toString LRN-205180:String
+}
+}
+}
+{{changelog>histories>[92]>author>active 1:Bool
+{changelog>histories>[92]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[92]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[92]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[92]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[92]>author>displayName Oscar Fajardo:String
+changelog>histories>[92]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[92]>author>key JIRAUSER25159:String
+changelog>histories>[92]>author>name ofajardo:String
+changelog>histories>[92]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[92]>author>timeZone America/Bogota:String
+}
+changelog>histories>[92]>created 2023-05-16T21:13:14.900+0000:String
+changelog>histories>[92]>id 15243096:String
+{{changelog>histories>[92]>items>[0]>field Epic Child:String
+changelog>histories>[92]>items>[0]>fieldtype custom:String
+changelog>histories>[92]>items>[0]>from :Null
+changelog>histories>[92]>items>[0]>fromString :Null
+changelog>histories>[92]>items>[0]>to 1453588:String
+changelog>histories>[92]>items>[0]>toString LRN-205630:String
+}
+}
+}
+{{changelog>histories>[93]>author>active 1:Bool
+{changelog>histories>[93]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[93]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[93]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[93]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[93]>author>displayName Oscar Fajardo:String
+changelog>histories>[93]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[93]>author>key JIRAUSER25159:String
+changelog>histories>[93]>author>name ofajardo:String
+changelog>histories>[93]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[93]>author>timeZone America/Bogota:String
+}
+changelog>histories>[93]>created 2023-05-16T21:13:41.165+0000:String
+changelog>histories>[93]>id 15243099:String
+{{changelog>histories>[93]>items>[0]>field Epic Child:String
+changelog>histories>[93]>items>[0]>fieldtype custom:String
+changelog>histories>[93]>items>[0]>from :Null
+changelog>histories>[93]>items>[0]>fromString :Null
+changelog>histories>[93]>items>[0]>to 1453903:String
+changelog>histories>[93]>items>[0]>toString LRN-205841:String
+}
+}
+}
+{{changelog>histories>[94]>author>active 1:Bool
+{changelog>histories>[94]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[94]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[94]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[94]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[94]>author>displayName Oscar Fajardo:String
+changelog>histories>[94]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[94]>author>key JIRAUSER25159:String
+changelog>histories>[94]>author>name ofajardo:String
+changelog>histories>[94]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[94]>author>timeZone America/Bogota:String
+}
+changelog>histories>[94]>created 2023-05-16T21:16:56.298+0000:String
+changelog>histories>[94]>id 15243108:String
+{{changelog>histories>[94]>items>[0]>field Epic Child:String
+changelog>histories>[94]>items>[0]>fieldtype custom:String
+changelog>histories>[94]>items>[0]>from :Null
+changelog>histories>[94]>items>[0]>fromString :Null
+changelog>histories>[94]>items>[0]>to 1453908:String
+changelog>histories>[94]>items>[0]>toString LRN-205846:String
+}
+}
+}
+{{changelog>histories>[95]>author>active 1:Bool
+{changelog>histories>[95]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[95]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[95]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[95]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[95]>author>displayName Ailin Rojas:String
+changelog>histories>[95]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[95]>author>key aarojas:String
+changelog>histories>[95]>author>name aarojas:String
+changelog>histories>[95]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[95]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[95]>created 2023-05-16T21:18:31.716+0000:String
+changelog>histories>[95]>id 15243118:String
+{{changelog>histories>[95]>items>[0]>field Epic Child:String
+changelog>histories>[95]>items>[0]>fieldtype custom:String
+changelog>histories>[95]>items>[0]>from :Null
+changelog>histories>[95]>items>[0]>fromString :Null
+changelog>histories>[95]>items>[0]>to 1453910:String
+changelog>histories>[95]>items>[0]>toString LRN-205848:String
+}
+}
+}
+{{changelog>histories>[96]>author>active 1:Bool
+{changelog>histories>[96]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[96]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[96]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[96]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[96]>author>displayName Ailin Rojas:String
+changelog>histories>[96]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[96]>author>key aarojas:String
+changelog>histories>[96]>author>name aarojas:String
+changelog>histories>[96]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[96]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[96]>created 2023-05-16T21:18:49.912+0000:String
+changelog>histories>[96]>id 15243122:String
+{{changelog>histories>[96]>items>[0]>field Epic Child:String
+changelog>histories>[96]>items>[0]>fieldtype custom:String
+changelog>histories>[96]>items>[0]>from :Null
+changelog>histories>[96]>items>[0]>fromString :Null
+changelog>histories>[96]>items>[0]>to 1453912:String
+changelog>histories>[96]>items>[0]>toString LRN-205850:String
+}
+}
+}
+{{changelog>histories>[97]>author>active 1:Bool
+{changelog>histories>[97]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=jtriana&avatarId=16535:String
+changelog>histories>[97]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=jtriana&avatarId=16535:String
+changelog>histories>[97]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=jtriana&avatarId=16535:String
+changelog>histories>[97]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=jtriana&avatarId=16535:String
+}
+changelog>histories>[97]>author>displayName John Triana:String
+changelog>histories>[97]>author>emailAddress john.triana@blackboard.com:String
+changelog>histories>[97]>author>key jtriana:String
+changelog>histories>[97]>author>name jtriana:String
+changelog>histories>[97]>author>self https://jira.bbpd.io/rest/api/2/user?username=jtriana:String
+changelog>histories>[97]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[97]>created 2023-05-24T12:51:27.082+0000:String
+changelog>histories>[97]>id 15253962:String
+{{changelog>histories>[97]>items>[0]>field RemoteIssueLink:String
+changelog>histories>[97]>items>[0]>fieldtype jira:String
+changelog>histories>[97]>items>[0]>from :Null
+changelog>histories>[97]>items>[0]>fromString :Null
+changelog>histories>[97]>items>[0]>to 423836:String
+changelog>histories>[97]>items>[0]>toString This issue links to "Page (Confluence)":String
+}
+}
+}
+{{changelog>histories>[98]>author>active 1:Bool
+{changelog>histories>[98]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[98]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[98]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER26035&avatarId=18872:String
+changelog>histories>[98]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER26035&avatarId=18872:String
+}
+changelog>histories>[98]>author>displayName Daniel Rodriguez Venegas:String
+changelog>histories>[98]>author>emailAddress daniel.rodriguezvenegas@blackboard.com:String
+changelog>histories>[98]>author>key JIRAUSER26035:String
+changelog>histories>[98]>author>name drodriguezvenegas:String
+changelog>histories>[98]>author>self https://jira.bbpd.io/rest/api/2/user?username=drodriguezvenegas:String
+changelog>histories>[98]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[98]>created 2023-05-24T14:34:49.172+0000:String
+changelog>histories>[98]>id 15254221:String
+{{changelog>histories>[98]>items>[0]>field Epic Child:String
+changelog>histories>[98]>items>[0]>fieldtype custom:String
+changelog>histories>[98]>items>[0]>from :Null
+changelog>histories>[98]>items>[0]>fromString :Null
+changelog>histories>[98]>items>[0]>to 1454282:String
+changelog>histories>[98]>items>[0]>toString LRN-206122:String
+}
+}
+}
+{{changelog>histories>[99]>author>active 1:Bool
+{changelog>histories>[99]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[99]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[99]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25256&avatarId=18250:String
+changelog>histories>[99]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25256&avatarId=18250:String
+}
+changelog>histories>[99]>author>displayName Diana Cepeda:String
+changelog>histories>[99]>author>emailAddress diana.cepeda@blackboard.com:String
+changelog>histories>[99]>author>key JIRAUSER25256:String
+changelog>histories>[99]>author>name dcepeda:String
+changelog>histories>[99]>author>self https://jira.bbpd.io/rest/api/2/user?username=dcepeda:String
+changelog>histories>[99]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[99]>created 2023-05-24T14:40:40.298+0000:String
+changelog>histories>[99]>id 15254272:String
+{{changelog>histories>[99]>items>[0]>field Epic Child:String
+changelog>histories>[99]>items>[0]>fieldtype custom:String
+changelog>histories>[99]>items>[0]>from :Null
+changelog>histories>[99]>items>[0]>fromString :Null
+changelog>histories>[99]>items>[0]>to 1454286:String
+changelog>histories>[99]>items>[0]>toString LRN-206125:String
+}
+}
+}
+{{changelog>histories>[100]>author>active 1:Bool
+{changelog>histories>[100]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[100]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[100]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[100]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[100]>author>displayName Ailin Rojas:String
+changelog>histories>[100]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[100]>author>key aarojas:String
+changelog>histories>[100]>author>name aarojas:String
+changelog>histories>[100]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[100]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[100]>created 2023-05-25T15:26:33.831+0000:String
+changelog>histories>[100]>id 15255719:String
+{{changelog>histories>[100]>items>[0]>field Epic Child:String
+changelog>histories>[100]>items>[0]>fieldtype custom:String
+changelog>histories>[100]>items>[0]>from :Null
+changelog>histories>[100]>items>[0]>fromString :Null
+changelog>histories>[100]>items>[0]>to 1453904:String
+changelog>histories>[100]>items>[0]>toString LRN-205842:String
+}
+}
+}
+{{changelog>histories>[101]>author>active 1:Bool
+{changelog>histories>[101]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[101]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[101]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[101]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[101]>author>displayName Ailin Rojas:String
+changelog>histories>[101]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[101]>author>key aarojas:String
+changelog>histories>[101]>author>name aarojas:String
+changelog>histories>[101]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[101]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[101]>created 2023-05-25T15:27:00.676+0000:String
+changelog>histories>[101]>id 15255722:String
+{{changelog>histories>[101]>items>[0]>field Epic Child:String
+changelog>histories>[101]>items>[0]>fieldtype custom:String
+changelog>histories>[101]>items>[0]>from :Null
+changelog>histories>[101]>items>[0]>fromString :Null
+changelog>histories>[101]>items>[0]>to 1453911:String
+changelog>histories>[101]>items>[0]>toString LRN-205849:String
+}
+}
+}
+{{changelog>histories>[102]>author>active 1:Bool
+{changelog>histories>[102]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[102]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[102]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[102]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[102]>author>displayName Ailin Rojas:String
+changelog>histories>[102]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[102]>author>key aarojas:String
+changelog>histories>[102]>author>name aarojas:String
+changelog>histories>[102]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[102]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[102]>created 2023-05-25T15:27:20.834+0000:String
+changelog>histories>[102]>id 15255725:String
+{{changelog>histories>[102]>items>[0]>field Epic Child:String
+changelog>histories>[102]>items>[0]>fieldtype custom:String
+changelog>histories>[102]>items>[0]>from :Null
+changelog>histories>[102]>items>[0]>fromString :Null
+changelog>histories>[102]>items>[0]>to 1453913:String
+changelog>histories>[102]>items>[0]>toString LRN-205851:String
+}
+}
+}
+{{changelog>histories>[103]>author>active 1:Bool
+{changelog>histories>[103]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[103]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[103]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[103]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[103]>author>displayName Ailin Rojas:String
+changelog>histories>[103]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[103]>author>key aarojas:String
+changelog>histories>[103]>author>name aarojas:String
+changelog>histories>[103]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[103]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[103]>created 2023-05-26T14:06:36.951+0000:String
+changelog>histories>[103]>id 15256931:String
+{{changelog>histories>[103]>items>[0]>field Epic Child:String
+changelog>histories>[103]>items>[0]>fieldtype custom:String
+changelog>histories>[103]>items>[0]>from 1453913:String
+changelog>histories>[103]>items>[0]>fromString LRN-205851:String
+changelog>histories>[103]>items>[0]>to :Null
+changelog>histories>[103]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[104]>author>active 1:Bool
+{changelog>histories>[104]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[104]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[104]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=aarojas&avatarId=16608:String
+changelog>histories>[104]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=aarojas&avatarId=16608:String
+}
+changelog>histories>[104]>author>displayName Ailin Rojas:String
+changelog>histories>[104]>author>emailAddress ailin.rojas@blackboard.com:String
+changelog>histories>[104]>author>key aarojas:String
+changelog>histories>[104]>author>name aarojas:String
+changelog>histories>[104]>author>self https://jira.bbpd.io/rest/api/2/user?username=aarojas:String
+changelog>histories>[104]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[104]>created 2023-05-26T14:07:02.660+0000:String
+changelog>histories>[104]>id 15256936:String
+{{changelog>histories>[104]>items>[0]>field Epic Child:String
+changelog>histories>[104]>items>[0]>fieldtype custom:String
+changelog>histories>[104]>items>[0]>from 1453912:String
+changelog>histories>[104]>items>[0]>fromString LRN-205850:String
+changelog>histories>[104]>items>[0]>to :Null
+changelog>histories>[104]>items>[0]>toString :Null
+}
+}
+}
+{{changelog>histories>[105]>author>active 1:Bool
+{changelog>histories>[105]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=ops_learn_service_account&avatarId=16369:String
+changelog>histories>[105]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=ops_learn_service_account&avatarId=16369:String
+changelog>histories>[105]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=ops_learn_service_account&avatarId=16369:String
+changelog>histories>[105]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=ops_learn_service_account&avatarId=16369:String
+}
+changelog>histories>[105]>author>displayName OPS Learn  Service Account:String
+changelog>histories>[105]>author>emailAddress pd-direA@blackboard.com.coh:String
+changelog>histories>[105]>author>key ops_learn_service_account:String
+changelog>histories>[105]>author>name ops_learn_service_account:String
+changelog>histories>[105]>author>self https://jira.bbpd.io/rest/api/2/user?username=ops_learn_service_account:String
+changelog>histories>[105]>author>timeZone Etc/UTC:String
+}
+changelog>histories>[105]>created 2023-05-26T22:09:16.984+0000:String
+changelog>histories>[105]>id 15257747:String
+{{changelog>histories>[105]>items>[0]>field Merged Version/s:String
+changelog>histories>[105]>items>[0]>fieldtype custom:String
+changelog>histories>[105]>items>[0]>from :Null
+changelog>histories>[105]>items>[0]>fromString :Null
+changelog>histories>[105]>items>[0]>to [33927]:String
+changelog>histories>[105]>items>[0]>toString 3900.69.0:String
+}
+{changelog>histories>[105]>items>[1]>field status:String
+changelog>histories>[105]>items>[1]>fieldtype jira:String
+changelog>histories>[105]>items>[1]>from 3:String
+changelog>histories>[105]>items>[1]>fromString In Progress:String
+changelog>histories>[105]>items>[1]>to 3:String
+changelog>histories>[105]>items>[1]>toString In Progress:String
+}
+}
+}
+{{changelog>histories>[106]>author>active 1:Bool
+{changelog>histories>[106]>author>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[106]>author>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[106]>author>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+changelog>histories>[106]>author>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+changelog>histories>[106]>author>displayName Oscar Fajardo:String
+changelog>histories>[106]>author>emailAddress oscar.fajardo@blackboard.com:String
+changelog>histories>[106]>author>key JIRAUSER25159:String
+changelog>histories>[106]>author>name ofajardo:String
+changelog>histories>[106]>author>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+changelog>histories>[106]>author>timeZone America/Bogota:String
+}
+changelog>histories>[106]>created 2023-05-31T20:33:40.979+0000:String
+changelog>histories>[106]>id 15263032:String
+{{changelog>histories>[106]>items>[0]>field Fix Version:String
+changelog>histories>[106]>items>[0]>fieldtype jira:String
+changelog>histories>[106]>items>[0]>from :Null
+changelog>histories>[106]>items>[0]>fromString :Null
+changelog>histories>[106]>items>[0]>to 33927:String
+changelog>histories>[106]>items>[0]>toString 3900.69.0:String
+}
+{changelog>histories>[106]>items>[1]>field resolution:String
+changelog>histories>[106]>items>[1]>fieldtype jira:String
+changelog>histories>[106]>items>[1]>from :Null
+changelog>histories>[106]>items>[1]>fromString :Null
+changelog>histories>[106]>items>[1]>to 1:String
+changelog>histories>[106]>items>[1]>toString Fixed:String
+}
+{changelog>histories>[106]>items>[2]>field status:String
+changelog>histories>[106]>items>[2]>fieldtype jira:String
+changelog>histories>[106]>items>[2]>from 3:String
+changelog>histories>[106]>items>[2]>fromString In Progress:String
+changelog>histories>[106]>items>[2]>to 5:String
+changelog>histories>[106]>items>[2]>toString Resolved:String
+}
+}
+}
+}
+changelog>maxResults 107:Number
+changelog>startAt 0:Number
+changelog>total 107:Number
+}
+expand renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations:String
+{{fields>aggregateprogress>progress 0:Number
+fields>aggregateprogress>total 0:Number
+}
+fields>aggregatetimeestimate :Null
+fields>aggregatetimeoriginalestimate :Null
+fields>aggregatetimespent :Null
+{fields>assignee>active 1:Bool
+{fields>assignee>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>assignee>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>assignee>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>assignee>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+fields>assignee>displayName Oscar Fajardo:String
+fields>assignee>emailAddress oscar.fajardo@blackboard.com:String
+fields>assignee>key JIRAUSER25159:String
+fields>assignee>name ofajardo:String
+fields>assignee>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+fields>assignee>timeZone America/Bogota:String
+}
+{}
+{{}
+fields>comment>maxResults 0:Number
+fields>comment>startAt 0:Number
+fields>comment>total 0:Number
+}
+{}
+fields>created 2022-12-02T01:47:38.107+0000:String
+{fields>creator>active 1:Bool
+{fields>creator>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>creator>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>creator>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>creator>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+fields>creator>displayName Oscar Fajardo:String
+fields>creator>emailAddress oscar.fajardo@blackboard.com:String
+fields>creator>key JIRAUSER25159:String
+fields>creator>name ofajardo:String
+fields>creator>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+fields>creator>timeZone America/Bogota:String
+}
+{fields>customfield_10005>id 28650:String
+fields>customfield_10005>self https://jira.bbpd.io/rest/api/2/customFieldOption/28650:String
+fields>customfield_10005>value Unknown:String
+}
+{fields>customfield_10040>id 19062:String
+fields>customfield_10040>self https://jira.bbpd.io/rest/api/2/customFieldOption/19062:String
+fields>customfield_10040>value 3 - Medium:String
+}
+fields>customfield_10060 :Null
+fields>customfield_10072 :Null
+{fields>customfield_10100>id 18782:String
+fields>customfield_10100>self https://jira.bbpd.io/rest/api/2/customFieldOption/18782:String
+fields>customfield_10100>value Review:String
+}
+fields>customfield_10101 :Null
+fields>customfield_10190 :Null
+{fields>customfield_10210>[0] ofajardo(JIRAUSER25159):String
+}
+fields>customfield_10241 :Null
+fields>customfield_10242 0.0:String
+fields>customfield_10290 :Null
+fields>customfield_10330 :Null
+fields>customfield_10500 :Null
+{fields>customfield_10622>id 44994:String
+fields>customfield_10622>self https://jira.bbpd.io/rest/api/2/customFieldOption/44994:String
+fields>customfield_10622>value VS-Assignments and Tests:String
+}
+{fields>customfield_10643>active 1:Bool
+{fields>customfield_10643>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>customfield_10643>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>customfield_10643>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>customfield_10643>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+fields>customfield_10643>displayName Oscar Fajardo:String
+fields>customfield_10643>emailAddress oscar.fajardo@blackboard.com:String
+fields>customfield_10643>key JIRAUSER25159:String
+fields>customfield_10643>name ofajardo:String
+fields>customfield_10643>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+fields>customfield_10643>timeZone America/Bogota:String
+}
+fields>customfield_10644 0:Number
+fields>customfield_10791 :Null
+fields>customfield_10871 :Null
+fields>customfield_10990 :Null
+fields>customfield_11171 :Null
+fields>customfield_11280 :Null
+fields>customfield_11281 :Null
+fields>customfield_11283 :Null
+fields>customfield_11284 :Null
+fields>customfield_11290 :Null
+fields>customfield_11310 :Null
+fields>customfield_11311 1_*:*_1_*:*_12021566323_*|*_3_*:*_2_*:*_3597996549_*|*_5_*:*_1_*:*_0:String
+fields>customfield_11341 :Null
+{fields>customfield_11370>id 30210:String
+fields>customfield_11370>self https://jira.bbpd.io/rest/api/2/customFieldOption/30210:String
+fields>customfield_11370>value Unknown:String
+}
+fields>customfield_11380 :Null
+{{fields>customfield_11411>child>id 31228:String
+fields>customfield_11411>child>self https://jira.bbpd.io/rest/api/2/customFieldOption/31228:String
+fields>customfield_11411>child>value Unknown:String
+}
+fields>customfield_11411>id 31227:String
+fields>customfield_11411>self https://jira.bbpd.io/rest/api/2/customFieldOption/31227:String
+fields>customfield_11411>value Unknown:String
+}
+fields>customfield_11424 :Null
+{fields>customfield_11443>id 30933:String
+fields>customfield_11443>self https://jira.bbpd.io/rest/api/2/customFieldOption/30933:String
+fields>customfield_11443>value Unknown:String
+}
+fields>customfield_11444 :Null
+fields>customfield_11445 :Null
+fields>customfield_11446 :Null
+fields>customfield_11447 :Null
+fields>customfield_11448 :Null
+fields>customfield_11449 :Null
+fields>customfield_11450 :Null
+fields>customfield_11451 :Null
+fields>customfield_11453 :Null
+fields>customfield_11454 :Null
+fields>customfield_11455 :Null
+fields>customfield_11456 :Null
+fields>customfield_11461 :Null
+fields>customfield_11470 :Null
+fields>customfield_11480 :Null
+fields>customfield_11481 :Null
+fields>customfield_11482 :Null
+fields>customfield_11492 :Null
+fields>customfield_11501 :Null
+fields>customfield_11563 :Null
+fields>customfield_11690 :Null
+fields>customfield_11750 :Null
+fields>customfield_11762 :Null
+fields>customfield_11763 :Null
+fields>customfield_11764 Development - Multiple Choice Questions - Partial & Negative Credit:String
+{fields>customfield_11765>id 32163:String
+fields>customfield_11765>self https://jira.bbpd.io/rest/api/2/customFieldOption/32163:String
+fields>customfield_11765>value To Do:String
+}
+fields>customfield_11766 ghx-label-11:String
+{fields>customfield_11960>active 1:Bool
+{fields>customfield_11960>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>customfield_11960>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>customfield_11960>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>customfield_11960>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+fields>customfield_11960>displayName Oscar Fajardo:String
+fields>customfield_11960>emailAddress oscar.fajardo@blackboard.com:String
+fields>customfield_11960>key JIRAUSER25159:String
+fields>customfield_11960>name ofajardo:String
+fields>customfield_11960>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+fields>customfield_11960>timeZone America/Bogota:String
+}
+fields>customfield_11962 1.68557e+12:Number
+{fields>customfield_12060>id 32564:String
+fields>customfield_12060>self https://jira.bbpd.io/rest/api/2/customFieldOption/32564:String
+fields>customfield_12060>value No:String
+}
+{fields>customfield_12161>id 32978:String
+fields>customfield_12161>self https://jira.bbpd.io/rest/api/2/customFieldOption/32978:String
+fields>customfield_12161>value A:String
+}
+fields>customfield_12162 Please add grading comment here.:String
+fields>customfield_12260 :Null
+fields>customfield_12361 2|i1cd3a::String
+{fields>customfield_12464>id 37851:String
+fields>customfield_12464>self https://jira.bbpd.io/rest/api/2/customFieldOption/37851:String
+fields>customfield_12464>value 4: Minor problem:String
+}
+fields>customfield_12686 :Null
+fields>customfield_12687 :Null
+fields>customfield_12762 :Null
+fields>customfield_12877 :Null
+fields>customfield_12878 :Null
+fields>customfield_12879 :Null
+fields>customfield_12880 :Null
+fields>customfield_12882 9223372036854775807:String
+{fields>customfield_12958>id 34048:String
+fields>customfield_12958>self https://jira.bbpd.io/rest/api/2/customFieldOption/34048:String
+fields>customfield_12958>value No:String
+}
+{fields>customfield_12981>id 34068:String
+fields>customfield_12981>self https://jira.bbpd.io/rest/api/2/customFieldOption/34068:String
+fields>customfield_12981>value No:String
+}
+fields>customfield_13074 0:Number
+fields>customfield_13092 :Null
+fields>customfield_13103 :Null
+fields>customfield_13114 :Null
+fields>customfield_13192 :Null
+fields>customfield_13214 :Null
+{fields>customfield_13220>id 34987:String
+fields>customfield_13220>self https://jira.bbpd.io/rest/api/2/customFieldOption/34987:String
+fields>customfield_13220>value 2: Few users:String
+}
+fields>customfield_13229 :Null
+fields>customfield_13305 :Null
+{fields>customfield_13425>id 36798:String
+fields>customfield_13425>self https://jira.bbpd.io/rest/api/2/customFieldOption/36798:String
+fields>customfield_13425>value No:String
+}
+fields>customfield_13426 :Null
+fields>customfield_13427 :Null
+fields>customfield_13428 :Null
+{fields>customfield_13429>id 36805:String
+fields>customfield_13429>self https://jira.bbpd.io/rest/api/2/customFieldOption/36805:String
+fields>customfield_13429>value No:String
+}
+fields>customfield_13430 :Null
+fields>customfield_13431 :Null
+fields>customfield_13432 :Null
+fields>customfield_13433 :Null
+fields>customfield_13434 :Null
+fields>customfield_13435 :Null
+{fields>customfield_13436>id 36812:String
+fields>customfield_13436>self https://jira.bbpd.io/rest/api/2/customFieldOption/36812:String
+fields>customfield_13436>value No:String
+}
+fields>customfield_13437 :Null
+fields>customfield_13438 :Null
+fields>customfield_13439 :Null
+fields>customfield_13440 :Null
+fields>customfield_13441 :Null
+fields>customfield_13442 :Null
+fields>customfield_13443 :Null
+fields>customfield_13444 :Null
+fields>customfield_13445 :Null
+fields>customfield_13450 :Null
+{fields>customfield_13459>id 37635:String
+fields>customfield_13459>self https://jira.bbpd.io/rest/api/2/customFieldOption/37635:String
+fields>customfield_13459>value Web Conferencing:String
+}
+fields>customfield_13461 :Null
+fields>customfield_13487 :Null
+fields>customfield_13526 :Null
+{{fields>customfield_13573>[0]>id 37900:String
+fields>customfield_13573>[0]>self https://jira.bbpd.io/rest/api/2/customFieldOption/37900:String
+fields>customfield_13573>[0]>value Knowledge Base:String
+}
+}
+fields>customfield_13612 :Null
+fields>customfield_13660 :Null
+fields>customfield_13760 :Null
+fields>customfield_13782 :Null
+fields>customfield_13787 :Null
+fields>customfield_13800 :Null
+fields>customfield_13812 :Null
+fields>customfield_13823 :Null
+fields>customfield_13833 :Null
+fields>customfield_13842 :Null
+fields>customfield_13850 :Null
+fields>customfield_13857 :Null
+fields>customfield_13863 :Null
+fields>customfield_13868 :Null
+fields>customfield_13872 :Null
+fields>customfield_13875 blackboard.com:String
+fields>customfield_13877 :Null
+fields>customfield_13891 :Null
+fields>customfield_13904 :Null
+fields>customfield_13916 :Null
+fields>customfield_13927 :Null
+fields>customfield_13947 :Null
+fields>customfield_13954 :Null
+fields>customfield_13956 :Null
+fields>customfield_13958 :Null
+fields>customfield_13964 :Null
+fields>customfield_13969 :Null
+fields>customfield_13973 :Null
+fields>customfield_13976 :Null
+fields>customfield_14041 :Null
+fields>customfield_14059 :Null
+fields>customfield_14071 :Null
+fields>customfield_14082 :Null
+fields>customfield_14137 :Null
+fields>customfield_14178 :Null
+fields>customfield_14180 :Null
+{{fields>customfield_14360>[0]>id 39563:String
+fields>customfield_14360>[0]>self https://jira.bbpd.io/rest/api/2/customFieldOption/39563:String
+fields>customfield_14360>[0]>value NAHE:String
+}
+}
+fields>customfield_14361 :Null
+fields>customfield_14362 :Null
+fields>customfield_14363 :Null
+fields>customfield_14460 :Null
+fields>customfield_14660 :Null
+fields>customfield_14661 :Null
+fields>customfield_14760 :Null
+fields>customfield_14860 :Null
+fields>customfield_14861 :Null
+fields>customfield_14862 :Null
+{{{}
+fields>customfield_14963>[0]>checked 0:Bool
+fields>customfield_14963>[0]>globalItemId 40278:Number
+fields>customfield_14963>[0]>id 1:Number
+fields>customfield_14963>[0]>isHeader 0:Bool
+fields>customfield_14963>[0]>mandatory 1:Bool
+fields>customfield_14963>[0]>name Checklist Completed:String
+fields>customfield_14963>[0]>rank 0:Number
+}
+{{}
+fields>customfield_14963>[1]>checked 0:Bool
+fields>customfield_14963>[1]>globalItemId 40363:Number
+fields>customfield_14963>[1]>id 2:Number
+fields>customfield_14963>[1]>isHeader 0:Bool
+fields>customfield_14963>[1]>mandatory 1:Bool
+fields>customfield_14963>[1]>name Isolated:String
+fields>customfield_14963>[1]>rank 1:Number
+}
+{{}
+fields>customfield_14963>[2]>checked 0:Bool
+fields>customfield_14963>[2]>globalItemId 40279:Number
+fields>customfield_14963>[2]>id 3:Number
+fields>customfield_14963>[2]>isHeader 0:Bool
+fields>customfield_14963>[2]>mandatory 1:Bool
+fields>customfield_14963>[2]>name DB code/schema/query changes reviewed by a DBA:String
+fields>customfield_14963>[2]>rank 2:Number
+}
+{{}
+fields>customfield_14963>[3]>checked 0:Bool
+fields>customfield_14963>[3]>globalItemId 40280:Number
+fields>customfield_14963>[3]>id 4:Number
+fields>customfield_14963>[3]>isHeader 0:Bool
+fields>customfield_14963>[3]>mandatory 1:Bool
+fields>customfield_14963>[3]>name User Experience (Design team):String
+fields>customfield_14963>[3]>rank 3:Number
+}
+{{}
+fields>customfield_14963>[4]>checked 0:Bool
+fields>customfield_14963>[4]>globalItemId 40281:Number
+fields>customfield_14963>[4]>id 5:Number
+fields>customfield_14963>[4]>isHeader 0:Bool
+fields>customfield_14963>[4]>mandatory 1:Bool
+fields>customfield_14963>[4]>name User Interface (UID team):String
+fields>customfield_14963>[4]>rank 4:Number
+}
+{{}
+fields>customfield_14963>[5]>checked 0:Bool
+fields>customfield_14963>[5]>globalItemId 40282:Number
+fields>customfield_14963>[5]>id 6:Number
+fields>customfield_14963>[5]>isHeader 0:Bool
+fields>customfield_14963>[5]>mandatory 1:Bool
+fields>customfield_14963>[5]>name NERV on Windows/SQL:String
+fields>customfield_14963>[5]>rank 5:Number
+}
+{{}
+fields>customfield_14963>[6]>checked 0:Bool
+fields>customfield_14963>[6]>globalItemId 40283:Number
+fields>customfield_14963>[6]>id 7:Number
+fields>customfield_14963>[6]>isHeader 0:Bool
+fields>customfield_14963>[6]>mandatory 1:Bool
+fields>customfield_14963>[6]>name NERV on Linux/Oracle:String
+fields>customfield_14963>[6]>rank 6:Number
+}
+{{}
+fields>customfield_14963>[7]>checked 0:Bool
+fields>customfield_14963>[7]>globalItemId 40284:Number
+fields>customfield_14963>[7]>id 8:Number
+fields>customfield_14963>[7]>isHeader 0:Bool
+fields>customfield_14963>[7]>mandatory 1:Bool
+fields>customfield_14963>[7]>name NERV on PostgreSQL:String
+fields>customfield_14963>[7]>rank 7:Number
+}
+{{}
+fields>customfield_14963>[8]>checked 0:Bool
+fields>customfield_14963>[8]>globalItemId 40285:Number
+fields>customfield_14963>[8]>id 9:Number
+fields>customfield_14963>[8]>isHeader 0:Bool
+fields>customfield_14963>[8]>mandatory 1:Bool
+fields>customfield_14963>[8]>name NERV on Ultra Enabled:String
+fields>customfield_14963>[8]>rank 8:Number
+}
+{{}
+fields>customfield_14963>[9]>checked 0:Bool
+fields>customfield_14963>[9]>globalItemId 40286:Number
+fields>customfield_14963>[9]>id 10:Number
+fields>customfield_14963>[9]>isHeader 0:Bool
+fields>customfield_14963>[9]>mandatory 1:Bool
+fields>customfield_14963>[9]>name New/Modified Unit/Integration Tests:String
+fields>customfield_14963>[9]>rank 9:Number
+}
+{{}
+fields>customfield_14963>[10]>checked 0:Bool
+fields>customfield_14963>[10]>globalItemId 40287:Number
+fields>customfield_14963>[10]>id 11:Number
+fields>customfield_14963>[10]>isHeader 0:Bool
+fields>customfield_14963>[10]>mandatory 1:Bool
+fields>customfield_14963>[10]>name Building Block:String
+fields>customfield_14963>[10]>rank 10:Number
+}
+{{}
+fields>customfield_14963>[11]>checked 0:Bool
+fields>customfield_14963>[11]>globalItemId 40288:Number
+fields>customfield_14963>[11]>id 12:Number
+fields>customfield_14963>[11]>isHeader 0:Bool
+fields>customfield_14963>[11]>mandatory 1:Bool
+fields>customfield_14963>[11]>name Public API Change:String
+fields>customfield_14963>[11]>rank 11:Number
+}
+{{}
+fields>customfield_14963>[12]>checked 0:Bool
+fields>customfield_14963>[12]>globalItemId 40289:Number
+fields>customfield_14963>[12]>id 13:Number
+fields>customfield_14963>[12]>isHeader 0:Bool
+fields>customfield_14963>[12]>mandatory 1:Bool
+fields>customfield_14963>[12]>name Security Changes:String
+fields>customfield_14963>[12]>rank 12:Number
+}
+{{}
+fields>customfield_14963>[13]>checked 0:Bool
+fields>customfield_14963>[13]>globalItemId 40290:Number
+fields>customfield_14963>[13]>id 14:Number
+fields>customfield_14963>[13]>isHeader 0:Bool
+fields>customfield_14963>[13]>mandatory 1:Bool
+fields>customfield_14963>[13]>name Performance Changes:String
+fields>customfield_14963>[13]>rank 13:Number
+}
+{{}
+fields>customfield_14963>[14]>checked 0:Bool
+fields>customfield_14963>[14]>globalItemId 40291:Number
+fields>customfield_14963>[14]>id 15:Number
+fields>customfield_14963>[14]>isHeader 0:Bool
+fields>customfield_14963>[14]>mandatory 1:Bool
+fields>customfield_14963>[14]>name Accessibility:String
+fields>customfield_14963>[14]>rank 14:Number
+}
+{{}
+fields>customfield_14963>[15]>checked 0:Bool
+fields>customfield_14963>[15]>globalItemId 40292:Number
+fields>customfield_14963>[15]>id 16:Number
+fields>customfield_14963>[15]>isHeader 0:Bool
+fields>customfield_14963>[15]>mandatory 1:Bool
+fields>customfield_14963>[15]>name i18n/L10n (lang pack):String
+fields>customfield_14963>[15]>rank 15:Number
+}
+{{}
+fields>customfield_14963>[16]>checked 0:Bool
+fields>customfield_14963>[16]>globalItemId 40293:Number
+fields>customfield_14963>[16]>id 17:Number
+fields>customfield_14963>[16]>isHeader 0:Bool
+fields>customfield_14963>[16]>mandatory 1:Bool
+fields>customfield_14963>[16]>name Multiple Features Impacted:String
+fields>customfield_14963>[16]>rank 16:Number
+}
+{{}
+fields>customfield_14963>[17]>checked 0:Bool
+fields>customfield_14963>[17]>globalItemId 40294:Number
+fields>customfield_14963>[17]>id 18:Number
+fields>customfield_14963>[17]>isHeader 0:Bool
+fields>customfield_14963>[17]>mandatory 1:Bool
+fields>customfield_14963>[17]>name Workflow/Navigation Changes:String
+fields>customfield_14963>[17]>rank 17:Number
+}
+{{}
+fields>customfield_14963>[18]>checked 0:Bool
+fields>customfield_14963>[18]>globalItemId 40295:Number
+fields>customfield_14963>[18]>id 19:Number
+fields>customfield_14963>[18]>isHeader 0:Bool
+fields>customfield_14963>[18]>mandatory 1:Bool
+fields>customfield_14963>[18]>name Content Exchange:String
+fields>customfield_14963>[18]>rank 18:Number
+}
+}
+fields>customfield_15061 :Null
+fields>customfield_15063 :Null
+fields>customfield_15064 :Null
+fields>customfield_15065 :Null
+fields>customfield_15066 :Null
+fields>customfield_15160 :Null
+fields>customfield_15161 :Null
+fields>customfield_15162 :Null
+fields>customfield_15163 :Null
+fields>customfield_15164 :Null
+fields>customfield_15165 :Null
+fields>customfield_15166 :Null
+fields>customfield_15167 :Null
+fields>customfield_15266 :Null
+fields>customfield_15267 :Null
+fields>customfield_15268 1.56196e+10:Number
+fields>customfield_15360 :Null
+fields>customfield_15361 :Null
+fields>customfield_15460 :Null
+fields>customfield_15560 :Null
+fields>customfield_15561 :Null
+fields>customfield_15562 :Null
+fields>customfield_15563 :Null
+fields>customfield_15564 :Null
+fields>customfield_15565 :Null
+fields>customfield_15566 :Null
+fields>customfield_15567 :Null
+fields>customfield_15568 :Null
+fields>customfield_15569 :Null
+fields>customfield_15570 :Null
+fields>customfield_15571 :Null
+fields>customfield_15572 :Null
+fields>customfield_15573 :Null
+fields>customfield_15574 :Null
+fields>customfield_15575 :Null
+fields>customfield_15576 :Null
+fields>customfield_15577 :Null
+fields>customfield_15578 :Null
+fields>customfield_15579 :Null
+fields>customfield_15580 :Null
+fields>customfield_15581 :Null
+fields>customfield_15582 :Null
+fields>customfield_15583 :Null
+fields>customfield_15584 :Null
+fields>customfield_15585 :Null
+fields>customfield_15586 :Null
+fields>customfield_15666 :Null
+fields>customfield_15762 :Null
+{fields>customfield_15763>[0] Team_Unassigned:String
+}
+fields>customfield_15771 :Null
+fields>customfield_15776 :Null
+fields>customfield_15961 :Null
+fields>customfield_15963 :Null
+{fields>customfield_15964>id 41876:String
+fields>customfield_15964>self https://jira.bbpd.io/rest/api/2/customFieldOption/41876:String
+fields>customfield_15964>value Unix:String
+}
+fields>customfield_15965 :Null
+fields>customfield_15966 :Null
+fields>customfield_15967 :Null
+fields>customfield_15968 :Null
+fields>customfield_15970 :Null
+fields>customfield_15971 :Null
+fields>customfield_15972 :Null
+fields>customfield_15973 :Null
+fields>customfield_15974 :Null
+fields>customfield_15975 :Null
+fields>customfield_15976 :Null
+fields>customfield_15977 :Null
+{fields>customfield_15978>id 41894:String
+fields>customfield_15978>self https://jira.bbpd.io/rest/api/2/customFieldOption/41894:String
+fields>customfield_15978>value No:String
+}
+{fields>customfield_15980>id 41898:String
+fields>customfield_15980>self https://jira.bbpd.io/rest/api/2/customFieldOption/41898:String
+fields>customfield_15980>value No:String
+}
+fields>customfield_16082 :Null
+{{fields>customfield_16083>[0]>archived 0:Bool
+fields>customfield_16083>[0]>description July 2023 Release:String
+fields>customfield_16083>[0]>id 33927:String
+fields>customfield_16083>[0]>name 3900.69.0:String
+fields>customfield_16083>[0]>releaseDate 2023-05-30:String
+fields>customfield_16083>[0]>released 0:Bool
+fields>customfield_16083>[0]>self https://jira.bbpd.io/rest/api/2/version/33927:String
+}
+}
+fields>customfield_16084 :Null
+fields>customfield_16085 :Null
+{fields>customfield_16086>id 42031:String
+fields>customfield_16086>self https://jira.bbpd.io/rest/api/2/customFieldOption/42031:String
+fields>customfield_16086>value Ultra:String
+}
+fields>customfield_16161 :Null
+{{fields>customfield_16166>[0]>id 43178:String
+fields>customfield_16166>[0]>self https://jira.bbpd.io/rest/api/2/customFieldOption/43178:String
+fields>customfield_16166>[0]>value Guatavita:String
+}
+}
+fields>customfield_16261 :Null
+fields>customfield_16262 DP-1432:String
+fields>customfield_16263 :Null
+fields>customfield_16264 :Null
+fields>customfield_16265 :Null
+fields>customfield_16360 {}:String
+fields>customfield_16560 :Null
+fields>customfield_16561 :Null
+fields>customfield_16562 :Null
+fields>customfield_16563 :Null
+fields>customfield_16564 :Null
+fields>customfield_16565 :Null
+{fields>customfield_16566>id 42753:String
+fields>customfield_16566>self https://jira.bbpd.io/rest/api/2/customFieldOption/42753:String
+fields>customfield_16566>value False:String
+}
+{fields>customfield_16567>id 42755:String
+fields>customfield_16567>self https://jira.bbpd.io/rest/api/2/customFieldOption/42755:String
+fields>customfield_16567>value False:String
+}
+fields>customfield_16568 :Null
+fields>customfield_16660 :Null
+fields>customfield_16661 :Null
+fields>customfield_16662 Specify versions where a backport is requested.
+<script type="text/javascript">
+  function showHelp() {
+        var listenersDiv = document.getElementById("rbvFieldHelp");
+        if (listenersDiv.style.display == 'none') {
+          listenersDiv.style.display = '';
+        } else {
+          listenersDiv.style.display='none';
+        }
+  }
+</script>
+<a href="#"  onclick="showHelp(); return false;"><img src="/images/icons/ico_help.png"/></a>
+<div id="rbvFieldHelp" style="display:none">
+Enter Learn versions where you are requesting a backport and why the backport is required.<br>
+The request will be sent to authorized approvers.<br>
+Approved versions will be added to the Approved Backport Versions field.<br>
+The Requested Backport Version field will be cleared once approved or denied.
+</div>:String
+fields>customfield_16663 Specify versions where a backport is approved.
+<script type="text/javascript">
+  function showHelp() {
+        var listenersDiv = document.getElementById("rbvFieldHelp");
+        if (listenersDiv.style.display == 'none') {
+          listenersDiv.style.display = '';
+        } else {
+          listenersDiv.style.display='none';
+        }
+  }
+</script>
+<a href="#"  onclick="showHelp(); return false;"><img src="/images/icons/ico_help.png"/></a>
+<div id="rbvFieldHelp" style="display:none">
+Add Learn versions where you are approving the backport.<br>
+Exclude versions where the backport request is denied.<br>
+Approved Backport Versions field is a comprehensive list of all approved backports for this ticket.<br>
+The Requested Backport Version field will be cleared upon approval/denial.
+</div>:String
+fields>customfield_16760 :Null
+fields>customfield_16763 :Null
+fields>customfield_16764 :Null
+fields>customfield_16860 :Null
+fields>customfield_16873 :Null
+fields>customfield_16874 :Null
+fields>customfield_16961 :Null
+fields>customfield_16962 :Null
+fields>customfield_16963 :Null
+fields>customfield_16964 :Null
+fields>customfield_16966 :Null
+{fields>customfield_17068>id 43451:String
+fields>customfield_17068>self https://jira.bbpd.io/rest/api/2/customFieldOption/43451:String
+fields>customfield_17068>value None:String
+}
+fields>customfield_17160 :Null
+fields>customfield_17161 :Null
+fields>customfield_17162 :Null
+fields>customfield_17261 :Null
+fields>customfield_17360 :Null
+fields>customfield_17361 :Null
+fields>customfield_17462 :Null
+{}
+fields>customfield_17562 :Null
+fields>customfield_17563 :Null
+fields>customfield_17660 :Null
+fields>customfield_17661 :Null
+fields>customfield_17662 :Null
+fields>customfield_17663 :Null
+fields>customfield_17860 :Null
+fields>customfield_17960 :Null
+fields>description * 
+Development - Multiple Choice - Partial & negative credit:String
+fields>duedate :Null
+fields>environment :Null
+{{fields>fixVersions>[0]>archived 0:Bool
+fields>fixVersions>[0]>description July 2023 Release:String
+fields>fixVersions>[0]>id 33927:String
+fields>fixVersions>[0]>name 3900.69.0:String
+fields>fixVersions>[0]>releaseDate 2023-05-30:String
+fields>fixVersions>[0]>released 0:Bool
+fields>fixVersions>[0]>self https://jira.bbpd.io/rest/api/2/version/33927:String
+}
+}
+{{fields>issuelinks>[0]>id 962729:String
+{{{fields>issuelinks>[0]>outwardIssue>fields>issuetype>avatarId 13757:Number
+fields>issuelinks>[0]>outwardIssue>fields>issuetype>description Created by Jira Software - do not edit or delete. Issue type for a big user story that needs to be broken down.:String
+fields>issuelinks>[0]>outwardIssue>fields>issuetype>iconUrl https://jira.bbpd.io/secure/viewavatar?size=xsmall&avatarId=13757&avatarType=issuetype:String
+fields>issuelinks>[0]>outwardIssue>fields>issuetype>id 102:String
+fields>issuelinks>[0]>outwardIssue>fields>issuetype>name Epic:String
+fields>issuelinks>[0]>outwardIssue>fields>issuetype>self https://jira.bbpd.io/rest/api/2/issuetype/102:String
+fields>issuelinks>[0]>outwardIssue>fields>issuetype>subtask 0:Bool
+}
+{fields>issuelinks>[0]>outwardIssue>fields>priority>iconUrl https://jira.bbpd.io/images/icons/priorities/major.svg:String
+fields>issuelinks>[0]>outwardIssue>fields>priority>id 3:String
+fields>issuelinks>[0]>outwardIssue>fields>priority>name 3 - Medium:String
+fields>issuelinks>[0]>outwardIssue>fields>priority>self https://jira.bbpd.io/rest/api/2/priority/3:String
+}
+{fields>issuelinks>[0]>outwardIssue>fields>status>description A resolution has been taken, and it is awaiting verification by client. From here issues are either reopened, or are closed.:String
+fields>issuelinks>[0]>outwardIssue>fields>status>iconUrl https://jira.bbpd.io/images/icons/statuses/resolved.png:String
+fields>issuelinks>[0]>outwardIssue>fields>status>id 5:String
+fields>issuelinks>[0]>outwardIssue>fields>status>name Resolved:String
+fields>issuelinks>[0]>outwardIssue>fields>status>self https://jira.bbpd.io/rest/api/2/status/5:String
+{fields>issuelinks>[0]>outwardIssue>fields>status>statusCategory>colorName green:String
+fields>issuelinks>[0]>outwardIssue>fields>status>statusCategory>id 3:Number
+fields>issuelinks>[0]>outwardIssue>fields>status>statusCategory>key done:String
+fields>issuelinks>[0]>outwardIssue>fields>status>statusCategory>name Done:String
+fields>issuelinks>[0]>outwardIssue>fields>status>statusCategory>self https://jira.bbpd.io/rest/api/2/statuscategory/3:String
+}
+}
+fields>issuelinks>[0]>outwardIssue>fields>summary Development - Shared Items Multiple Choice & Matching Questions - Partial & Negative Credit:String
+}
+fields>issuelinks>[0]>outwardIssue>id 1427750:String
+fields>issuelinks>[0]>outwardIssue>key LRN-197118:String
+fields>issuelinks>[0]>outwardIssue>self https://jira.bbpd.io/rest/api/2/issue/1427750:String
+}
+fields>issuelinks>[0]>self https://jira.bbpd.io/rest/api/2/issueLink/962729:String
+{fields>issuelinks>[0]>type>id 10418:String
+fields>issuelinks>[0]>type>inward is blocked by:String
+fields>issuelinks>[0]>type>name Blocker:String
+fields>issuelinks>[0]>type>outward blocks:String
+fields>issuelinks>[0]>type>self https://jira.bbpd.io/rest/api/2/issueLinkType/10418:String
+}
+}
+{fields>issuelinks>[1]>id 962730:String
+{{{fields>issuelinks>[1]>inwardIssue>fields>issuetype>avatarId 13757:Number
+fields>issuelinks>[1]>inwardIssue>fields>issuetype>description Created by Jira Software - do not edit or delete. Issue type for a big user story that needs to be broken down.:String
+fields>issuelinks>[1]>inwardIssue>fields>issuetype>iconUrl https://jira.bbpd.io/secure/viewavatar?size=xsmall&avatarId=13757&avatarType=issuetype:String
+fields>issuelinks>[1]>inwardIssue>fields>issuetype>id 102:String
+fields>issuelinks>[1]>inwardIssue>fields>issuetype>name Epic:String
+fields>issuelinks>[1]>inwardIssue>fields>issuetype>self https://jira.bbpd.io/rest/api/2/issuetype/102:String
+fields>issuelinks>[1]>inwardIssue>fields>issuetype>subtask 0:Bool
+}
+{fields>issuelinks>[1]>inwardIssue>fields>priority>iconUrl https://jira.bbpd.io/images/icons/priorities/major.svg:String
+fields>issuelinks>[1]>inwardIssue>fields>priority>id 3:String
+fields>issuelinks>[1]>inwardIssue>fields>priority>name 3 - Medium:String
+fields>issuelinks>[1]>inwardIssue>fields>priority>self https://jira.bbpd.io/rest/api/2/priority/3:String
+}
+{fields>issuelinks>[1]>inwardIssue>fields>status>description A resolution has been taken, and it is awaiting verification by client. From here issues are either reopened, or are closed.:String
+fields>issuelinks>[1]>inwardIssue>fields>status>iconUrl https://jira.bbpd.io/images/icons/statuses/resolved.png:String
+fields>issuelinks>[1]>inwardIssue>fields>status>id 5:String
+fields>issuelinks>[1]>inwardIssue>fields>status>name Resolved:String
+fields>issuelinks>[1]>inwardIssue>fields>status>self https://jira.bbpd.io/rest/api/2/status/5:String
+{fields>issuelinks>[1]>inwardIssue>fields>status>statusCategory>colorName green:String
+fields>issuelinks>[1]>inwardIssue>fields>status>statusCategory>id 3:Number
+fields>issuelinks>[1]>inwardIssue>fields>status>statusCategory>key done:String
+fields>issuelinks>[1]>inwardIssue>fields>status>statusCategory>name Done:String
+fields>issuelinks>[1]>inwardIssue>fields>status>statusCategory>self https://jira.bbpd.io/rest/api/2/statuscategory/3:String
+}
+}
+fields>issuelinks>[1]>inwardIssue>fields>summary Scoping - Multiple Choice Questions - Partial & Negative Credit:String
+}
+fields>issuelinks>[1]>inwardIssue>id 1427748:String
+fields>issuelinks>[1]>inwardIssue>key LRN-197116:String
+fields>issuelinks>[1]>inwardIssue>self https://jira.bbpd.io/rest/api/2/issue/1427748:String
+}
+fields>issuelinks>[1]>self https://jira.bbpd.io/rest/api/2/issueLink/962730:String
+{fields>issuelinks>[1]>type>id 10418:String
+fields>issuelinks>[1]>type>inward is blocked by:String
+fields>issuelinks>[1]>type>name Blocker:String
+fields>issuelinks>[1]>type>outward blocks:String
+fields>issuelinks>[1]>type>self https://jira.bbpd.io/rest/api/2/issueLinkType/10418:String
+}
+}
+}
+{fields>issuetype>avatarId 13757:Number
+fields>issuetype>description Created by Jira Software - do not edit or delete. Issue type for a big user story that needs to be broken down.:String
+fields>issuetype>iconUrl https://jira.bbpd.io/secure/viewavatar?size=xsmall&avatarId=13757&avatarType=issuetype:String
+fields>issuetype>id 102:String
+fields>issuetype>name Epic:String
+fields>issuetype>self https://jira.bbpd.io/rest/api/2/issuetype/102:String
+fields>issuetype>subtask 0:Bool
+}
+{}
+fields>lastViewed 2023-06-05T13:52:38.737+0000:String
+{fields>priority>iconUrl https://jira.bbpd.io/images/icons/priorities/major.svg:String
+fields>priority>id 3:String
+fields>priority>name 3 - Medium:String
+fields>priority>self https://jira.bbpd.io/rest/api/2/priority/3:String
+}
+{fields>progress>progress 0:Number
+fields>progress>total 0:Number
+}
+{{fields>project>avatarUrls>16x16 https://jira.bbpd.io/secure/projectavatar?size=xsmall&pid=10301&avatarId=13659:String
+fields>project>avatarUrls>24x24 https://jira.bbpd.io/secure/projectavatar?size=small&pid=10301&avatarId=13659:String
+fields>project>avatarUrls>32x32 https://jira.bbpd.io/secure/projectavatar?size=medium&pid=10301&avatarId=13659:String
+fields>project>avatarUrls>48x48 https://jira.bbpd.io/secure/projectavatar?pid=10301&avatarId=13659:String
+}
+fields>project>id 10301:String
+fields>project>key LRN:String
+fields>project>name Learn:String
+{fields>project>projectCategory>description Current Academic Suite projects.:String
+fields>project>projectCategory>id 10000:String
+fields>project>projectCategory>name Academic Suite:String
+fields>project>projectCategory>self https://jira.bbpd.io/rest/api/2/projectCategory/10000:String
+}
+fields>project>projectTypeKey software:String
+fields>project>self https://jira.bbpd.io/rest/api/2/project/10301:String
+}
+{fields>reporter>active 1:Bool
+{fields>reporter>avatarUrls>16x16 https://jira.bbpd.io/secure/useravatar?size=xsmall&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>reporter>avatarUrls>24x24 https://jira.bbpd.io/secure/useravatar?size=small&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>reporter>avatarUrls>32x32 https://jira.bbpd.io/secure/useravatar?size=medium&ownerId=JIRAUSER25159&avatarId=18099:String
+fields>reporter>avatarUrls>48x48 https://jira.bbpd.io/secure/useravatar?ownerId=JIRAUSER25159&avatarId=18099:String
+}
+fields>reporter>displayName Oscar Fajardo:String
+fields>reporter>emailAddress oscar.fajardo@blackboard.com:String
+fields>reporter>key JIRAUSER25159:String
+fields>reporter>name ofajardo:String
+fields>reporter>self https://jira.bbpd.io/rest/api/2/user?username=ofajardo:String
+fields>reporter>timeZone America/Bogota:String
+}
+{fields>resolution>description A fix for this issue is checked into the tree and tested.:String
+fields>resolution>id 1:String
+fields>resolution>name Fixed:String
+fields>resolution>self https://jira.bbpd.io/rest/api/2/resolution/1:String
+}
+fields>resolutiondate 2023-05-31T20:33:40.764+0000:String
+{fields>status>description A resolution has been taken, and it is awaiting verification by client. From here issues are either reopened, or are closed.:String
+fields>status>iconUrl https://jira.bbpd.io/images/icons/statuses/resolved.png:String
+fields>status>id 5:String
+fields>status>name Resolved:String
+fields>status>self https://jira.bbpd.io/rest/api/2/status/5:String
+{fields>status>statusCategory>colorName green:String
+fields>status>statusCategory>id 3:Number
+fields>status>statusCategory>key done:String
+fields>status>statusCategory>name Done:String
+fields>status>statusCategory>self https://jira.bbpd.io/rest/api/2/statuscategory/3:String
+}
+}
+{}
+fields>summary Development - Multiple Choice Questions - Partial & Negative Credit:String
+fields>timeestimate :Null
+fields>timeoriginalestimate :Null
+fields>timespent :Null
+{}
+fields>updated 2023-05-31T20:33:40.973+0000:String
+{}
+{fields>votes>hasVoted 0:Bool
+fields>votes>self https://jira.bbpd.io/rest/api/2/issue/LRN-197117/votes:String
+fields>votes>votes 0:Number
+}
+{fields>watches>isWatching 0:Bool
+fields>watches>self https://jira.bbpd.io/rest/api/2/issue/LRN-197117/watchers:String
+fields>watches>watchCount 1:Number
+}
+{fields>worklog>maxResults 20:Number
+fields>worklog>startAt 0:Number
+fields>worklog>total 0:Number
+{}
+}
+fields>workratio -1:Number
+}
+id 1427749:String
+key LRN-197117:String
+self https://jira.bbpd.io/rest/api/2/issue/1427749:String
+}
+

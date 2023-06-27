@@ -37,11 +37,13 @@ list<string> anthology::azure_devops::boards(http_client & client
 	string query="/"+_ado_organization_+"/"+_ado_project_+"/"+teamName+"/_apis/work/boards?api-version=7.1-preview.1";
 	web::json::value json = _json(client,query);//taskJS.get();
 //	cout<<anthology::json::dump(json)<<endl;
+#ifdef _WIN32
 	web::json::array varray=json.at(L"value").as_array();
 	for(size_t i = 0;i<json.at(L"count").as_number().to_int32();i++){
-#ifdef _WIN32
 		resp.push_back(WtoS(varray[i].at(L"name").as_string()));
 #else
+	web::json::array varray=json.at("value").as_array();
+	for(size_t i = 0;i<json.at("count").as_number().to_int32();i++){
 		resp.push_back(varray[i].at("name").as_string());
 #endif
 	}

@@ -1,0 +1,1 @@
+./ajdebug --u narias --l j --rp "https://jira.bbpd.io" --t LRN-197117
