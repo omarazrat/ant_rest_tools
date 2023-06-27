@@ -1,11 +1,12 @@
-#include "utils.h"
-
 #ifdef WIN32
 #include <windows.h>
 #else
 #include <termios.h>
 #include <unistd.h>
 #endif
+#include "utils.h"
+
+using namespace std;
 /**
 *From https://stackoverflow.com/questions/1413445/reading-a-password-from-stdcin
 */
@@ -33,4 +34,12 @@ void anthology::utils::SetStdinEcho(bool enable)
 
     (void) tcsetattr(STDIN_FILENO, TCSANOW, &tty);
 #endif
+}
+wstring& anthology::utils::StoW(const string& str){
+	wstring resp(str.begin(),str.end());
+	return resp;
+}
+string& anthology::utils::WtoS(const wstring& str){
+	string resp(str.begin(),str.end());
+	return resp;
 }

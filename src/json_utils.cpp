@@ -7,6 +7,7 @@
 #include <http_msg.h>
 #include <http_client.h>
 #include <pplxtasks.h>
+#include "utils.h"
 #include "json_utils.h"
 
 using namespace std;
@@ -15,11 +16,16 @@ using namespace web;
 using namespace web::http;
 using namespace web::http::client;
 using namespace web::json;
+using namespace anthology::utils;
 
 http_client * anthology::json::_login(string login,string pwd
 	,uri &location){
 	http_client_config * config = new http_client_config();
+#ifdef _WIN32
+	credentials cred(StoW(login),StoW(pwd));
+#else
 	credentials cred(login,pwd);
+#endif
 	config->set_credentials(cred);
         http_client * client = new http_client(location,*config);
 	return client;	
@@ -28,9 +34,13 @@ value anthology::json::_json(http_client & client,
 		const string query){
 	http_request req;
 	req.set_method(methods::GET);
+#ifdef _WIN32
+	req.set_request_uri(StoW(query));
+#else
 	req.set_request_uri(query);
+#endif
 	http_response response= client.request(req).get();
-	response.headers().set_content_type("application/json");
+	response.headers().set_content_type(L"application/json");
 //	cout<<"request made"<<endl;
 //	cout<<"status code:"<<response.status_code()<<endl;//<<
 //		response.to_string()<<endl;
@@ -64,7 +74,11 @@ string anthology::json::dump(const value& json,list<string> &_list){
 			out<<json.as_bool()<<":Bool"<<endl;
 			break;
 		case value::String:
+#ifdef _WIN32
+			out<<WtoS(json.as_string())<<":String"<<endl;
+#else
 			out<<json.as_string()<<":String"<<endl;
+#endif
 			break;
 		case value::Object:
 			out<<"{"<<anthology::json::dump(json.as_object(),_list);
@@ -86,7 +100,11 @@ string anthology::json::dump(const object& obj,list<string> &_list){
 	stringstream out;
 	object::const_iterator it = obj.begin();
 	while(it!=obj.end()){
+#ifdef _WIN32
+		_list.push_back(WtoS(it->first));
+#else
 		_list.push_back(it->first);
+#endif
 		out<<anthology::json::dump(it->second,_list);
 		advance(it,1);
 	}

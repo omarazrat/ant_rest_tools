@@ -3,6 +3,7 @@
 #include <pplxtasks.h>
 #include "azdev.h"
 #include "json_utils.h"
+#include "utils.h"
 
 using namespace std;
 using namespace anthology::json;
@@ -11,12 +12,17 @@ using namespace web::http;
 using namespace web::http::client;
 using namespace web::json;
 using namespace pplx;
+using namespace anthology::utils;
 
 string anthology::azure_devops::_ado_organization_;
 string anthology::azure_devops::_ado_project_;
 
 http_client * anthology::azure_devops::login(string login,string pwd,string base_path){
+#ifdef _WIN32
+	uri * location = new uri(StoW(base_path));
+#else
 	uri * location = new uri(base_path);
+#endif
 	return _login(login,pwd,*location);
 }
 web::json::value anthology::azure_devops::json(http_client & client
@@ -31,9 +37,13 @@ list<string> anthology::azure_devops::boards(http_client & client
 	string query="/"+_ado_organization_+"/"+_ado_project_+"/"+teamName+"/_apis/work/boards?api-version=7.1-preview.1";
 	web::json::value json = _json(client,query);//taskJS.get();
 //	cout<<anthology::json::dump(json)<<endl;
-	web::json::array varray=json.at("value").as_array();
-	for(size_t i = 0;i<json.at("count").as_number().to_int32();i++){
+	web::json::array varray=json.at(L"value").as_array();
+	for(size_t i = 0;i<json.at(L"count").as_number().to_int32();i++){
+#ifdef _WIN32
+		resp.push_back(WtoS(varray[i].at(L"name").as_string()));
+#else
 		resp.push_back(varray[i].at("name").as_string());
+#endif
 	}
 	return resp;
 }
